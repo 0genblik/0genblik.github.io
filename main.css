@@ -1,0 +1,124 @@
+body {
+    background: #a4bdc5;
+}
+.navbar {
+    background:#053442;
+}
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em;
+}
+.nav-link:hover {
+    color: rgb(47, 70, 80);
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+div.a {
+    padding: 2em;
+}
+
+h2.b {
+   padding-top: 45px;
+   text-align: center;
+   font-family: "Courier New", "Monaco", monospace;
+   font-weight: bold;
+  }
+
+h3 {
+    font-family: "Courier New", "Monaco", monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+h6 {
+    font-weight: bold;
+}
+ div.container {
+
+    padding: 2em;
+    background: rgb(255, 255, 255);
+
+
+   }
+.desc {
+
+    border-left:4px solid #10828cfa;
+    
+}
+
+.header {
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.205);
+}
+
+.description {
+	left: 50%;
+	position: absolute;
+	top: 45%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.description h1 {
+	color: #fff;
+    font-family: "Courier New", "Monaco", monospace;
+}
+.description p {
+    font-family: "Courier New", "Monaco", monospace;
+	color: #fff;
+	font-size: 1.3rem;
+	line-height: 1.5;
+}
+
+.description button {
+    border:1px solid #fff;
+    background:#fff;
+    border-radius: 0;
+    color:#000;
+}
+.description button:hover {
+	border:1px solid #fff;
+    background:rgb(5, 27, 37);
+    color:#fff;
+}
+
+a:link.links {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited.links {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover.links {
+    color: rgb(3, 34, 39);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active.links {
+    color: rgb(21, 22, 29);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+
