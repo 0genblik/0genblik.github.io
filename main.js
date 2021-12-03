@@ -3,23 +3,71 @@ $(document).ready(function(){
 })
 
 
+
+
+
+let userHasScrolled = false;  
+window.addEventListener('scroll', (e) => {  
+  userHasScrolled = true;  
+})
+
+const navbar = document.querySelector('.navbar');
+
+navdefault = function () {
+	navbar.classList.add("navbar-colour");
+	navbar.classList.remove("added-scroll");
+}
+
+navhidden = function () {
+	navbar.classList.add("added-scroll");
+	navbar.classList.remove("navbar-colour");
+}
+
+window.onscroll = function () {
+	if (window.scrollY >= 120) {
+		navhidden()
+    } 
+    else {
+		navdefault()
+    }
+}
+
+
+
+inputtest = false
+hovertest = false
+
+var hover2 = document.getElementById("hover2");
+
+hover2.addEventListener("focus", (a) => {
+	inputtest=true
+	navdefault()
+})
+
+hover2.addEventListener("blur", (b) => {
+	inputtest=false;
+	if (hovertest) {
+		navdefault()
+	}		
+	else {
+		navhidden()
+	}
+})
+
 var hover1 = document.getElementById("hover1");
-	function hoverFunc1(){
-	alert("Welcome to the Coral of Cool");
-}
 
-var hover2 = document.querySelector("h2.b");
-	function hoverFunc2(){
-	alert("Mission");
-}
+hover1.addEventListener("mouseover", (c) => {
+	hovertest=true;
+	navdefault()
+})
 
-var hover3 = document.querySelectorAll("a.links")	;
-	function hoverFunc3(){
-	alert("Links");
-
-}
-
-
-hover1.addEventListener("mouseover", hoverFunc1);
-hover2.addEventListener("mouseover", hoverFunc2);
-hover3.addEventListener("mouseover", hoverFunc3);
+hover1.addEventListener("mouseout", (d) => {
+	hovertest=false;
+	if (inputtest) {
+		navdefault()
+	}		
+	else {
+		navhidden()
+	}
+	
+})

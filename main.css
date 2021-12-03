@@ -1,19 +1,27 @@
 body {
-    background: #a4bdc5;
+    background: #ffffff;
 }
-.navbar {
-    background:#053442;
+.navbar-colour {
+    background:#0a1722;
+    max-height: 80px; 
 }
+
+.added-scroll {
+    background:#0a1722;   
+    max-height: 45px; 
+    opacity: 0.5
+}
+
 .nav-link,
 .navbar-brand {
     color: #fff;
-    cursor: pointer;
+    cursor: pointer;    
 }
 .nav-link {
     margin-right: 1em;
 }
 .nav-link:hover {
-    color: rgb(47, 70, 80);
+    color: rgb(68, 172, 216);
 }
 .navbar-collapse {
     justify-content: flex-end;
@@ -48,45 +56,46 @@ h6 {
    }
 .desc {
 
-    border-left:4px solid #10828cfa;
+    border-left:4px solid #0a1722;
     
 }
 
 .header {
-    background-image: url('background.jpg');
+    background-image: url('Photo_by_Aleksandar_Pasaric_from_Pexels.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
 }
 .overlay {
     position: absolute;
-    min-height: 100%;
+    min-height: 25%;
     min-width: 100%;
     left: 0;
-    top: 0;
-    background: rgba(0, 0, 0, 0.205);
+    top: 40%;
+    background: rgba(255, 255, 255, 0.418);
 }
+
 
 .description {
 	left: 50%;
 	position: absolute;
-	top: 45%;
+	top: 58%;
 	transform: translate(-50%, -55%);
 	text-align: center;
 }
 .description h1 {
-	color: #fff;
+	color: #0a1722;
     font-family: "Courier New", "Monaco", monospace;
 }
 .description p {
     font-family: "Courier New", "Monaco", monospace;
-	color: #fff;
+	color: #0a1722;
 	font-size: 1.3rem;
 	line-height: 1.5;
 }
 
 .description button {
-    border:1px solid #fff;
+    border:0px solid #fff;
     background:#fff;
     border-radius: 0;
     color:#000;
