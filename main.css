@@ -67,7 +67,7 @@ h6 {
     position: relative;
 }
 .overlay {
-    position: absolute;
+    position: relative;
     min-height: 25%;
     min-width: 100%;
     left: 0;
