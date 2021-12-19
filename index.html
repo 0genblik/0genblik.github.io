@@ -10,16 +10,17 @@
         <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
         <script src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js'></script>
         <script src='https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js'></script>
+        <script src="https://d3js.org/d3.v7.min.js"></script>
         <link rel="stylesheet" type="text/css" href="main.css"> 
-
+        <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400&display=swap" rel="stylesheet"> 
 
     </head>
     <body>
-      
-      
-      <nav class='navbar navbar-expand-md fixed-top navbar-colour added-scroll' id="hover1">
+
+ 
+      <nav class='navbar navbar-expand-md fixed-top navbar-colour' id="hover">
         <a class="navbar-brand" href="#">
-          <img id="hover1" src="logo.png" alt="Logo" style="width:40px;">
+          <img id="hover" src="logo.png" alt="Logo" style="width:40px;">
         </a>
 
         <div class="collapse navbar-collapse" id="main-navigation">
@@ -35,11 +36,27 @@
             </li>
           </ul>
         </div>
+        <div class='dropdown'>
+          <form class="form-inline" action="/action_page.php">  
+              <input class="form-control mr-auto dropslct" type="text" placeholder="Search" id="myInput" onkeyup="searchFunc()">  
+              <button class="btn btn-dark" type="submit">Search</button>
+          </form>
+            
+          <div class="dropdown-content" id="box">
+                <ul id="myUL">
+                  <li><a href="#">Adele</a></li>
+                  <li><a href="#">Agnes</a></li>
+                  <li><a href="#">Billy</a></li>   
+                  <li><a href="#">Bob</a></li>
+                  <li><a href="#">Calvin</a></li>
+                  <li><a href="#">Christina</a></li>
+                  <li><a href="#">Cindy</a></li>
+                  <li><a href="#More">Cryptography</a></li>
+                </ul>
+            </div>
 
-        <form class="form-inline" action="/action_page.php">
-          <input class="form-control mr-sm-2" type="text" placeholder="Search" id="hover2">
-          <button class="btn btn-dark" type="submit">Search</button>
-        </form>
+        </div>
+
 
         
 
@@ -56,90 +73,107 @@
           <h1>Cyber Tracker</h1>
           <p>Protecting the Digital World</p>
           <a href='#More'>
-          <button class="btn btn-outline-secondary btn-lg">View the Statistics</button>
+          <button class="btn btn-outline-secondary btn-lg">View the Threat</button>
           </a>
         </div>
       </header>
 
       <a id='about';>
-      <div class ='a' class ='container-fluid'>
-        <h2 class='b'>Our Mission</h2>
-        <p>We aim to combat coral bleaching, overfishing, and coastal damage through raising awareness and providing an 
-          objective perspective on such dangers. In support of marine conservation, we encourage donation to the 
-          <a class = "links" href="https://coral.org/en/">Coral Reef Alliance</a>, <a class = "links" href="https://oceana.org/">Oceana</a>, and the 
-          <a class="links" href="https://www.instagram.com/_stevomarino/">Stevo Marino</a>. 
-          
-        </p>
-      </div class='a'>  
+        <div class ='aim container-fluid'>
+          <h2 class='aimTitle'>Our Mission</h2>
+          <p class="text-center">At <strong>Cyber Tracker</strong>, we aim to raise awareness to the serious digital 
+            threats that pose a risk to our <strong>privacy, security, and safety</strong> every day. In particular, 
+            we track data leaks over the years, as well as visualising important
+          network</p>
+            <a class = "links" href="https://coral.org/en/">link1</a>, <a class = "links" href="https://oceana.org/">link2</a>, and 
+            <a class="links" href="https://www.instagram.com/_stevomarino/">link3</a>. 
+            
+          </p>
+        </div class='a'>  
       </a>
       <a id="More";>
         <br><br>
-        <div class='container'>
-          <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-12">
-              <h3>Whats the Problem?</h3>
-              <p>With consistently rising temperatures due to climate change, the ocean temperatures have risen accordingly.
-                This results in coral bleaching, a process whereupon coral expells its algae (known as 'Zooxanthellae'), which is
-                what gives the coral such striking tropical colouration. Such algae's provide the coral with food and energy via 
-                photosynthesis, and without these most coral variations starve. More than 14% of coral has been lost in less than 
-                a decade. Its estimated that with the current projected rise of global temperatures by more than 2°C, 99% will be 
-                lost.
-              </p>
-              <img class = 'img-fluid resize' src="coralreef.jpg" alt="Coral Reef"> 
-              <br><br>
-              <p>In 2016, 70% of the worlds reefs were damaged, some irreparably.</p>
-              <p>Covering only 0.1% of the world's ocean regions, coral is already in limited supply - and yet more than 25% of 
-                marine life is dependant on reefs. Often called rainforests of the sea, these are precious and delicate organisms.
-                
-              </p>
-
-            </div>
-
-            <div class="col-lg-8 col-md-8 col-sm-12 desc">
-              <h3>Why is the Ocean so Important?</h3>
-              <h6>Oxygen Production</h6>
-              <p>Its estimated the ocean produces between 50 and a staggering 80% of the world's oxygen. Through 
-                carbon bleaching and massive ecosystem disruption, this could very soon change. Further air 
-                pollution poses huge health risks, not to mention the potential further environmental damage#
-                that could cascade from such a loss.
-              </p>
-              <h6>Food</h6>
-              <p>For both humans and animals alike, the Oceans provide a huge variety of food. The ecosystem is vast -
-                fish are a staple of many diets, and the interdependance within the ecosystem is crucial to environmental
-                stability.
-              </p>
-              <h6>Climate Regulation</h6>
-              <p>The ocean covers a huge 70% of the surface of the Earth; and as such regulates the water cycle and 
-                many climate processes. These include: heat transfer, weather patterns, and even extreme weather 
-                events such as hurricanes. 98% of the heat from the Sun's rays is absorbed by the ocean and transferred
-                across the planet.
+          <div class="row no-gutters text-center">
+            <div class="col-lg-6 col-md-6 col-sm-12 problem">
+              <div class="threat container-fluid">
+                <h3>THE THREAT</h3>
+                <p>With projected rise of global temperatures by more than 2°C, 99% will be 
+                  lost.
                 </p>
-              <h6>Medicine</h6>
-              <p>Many ingredients and other medicinal materials are found in the ocean, including those helping treat 
-                arthiritis, heart disease, and even cancer.</p>
-              <h6>Human Wellbeing</h6>
-              <p>Many advantages to human happiness can be correlated to the ocean. Many studies show nature has a 
-                direct impact on reducing stress, and mental and physical health are undeniably benefited by interacting
-                with the natural world around us. Even swimming is a very healthy process provided by the ocean, with breathing
-                patterns releasing important hormones into our system. Even ocean sounds for meditation are often used with great
-                results.
-              </p>
-              <h6>Biodiversity</h6>
-              <p>The oceans are an unmatched source of wildlife, growth, and thriving ecosystems. Its predicted the 
-                world's oceans contain between half a million and an incredible 10 million species - we have barely
-                touched the surface! In fact, more than 80% of the ocean remains unexplored.
-              </p>
+                
+                <p>In 2016, 70% of the worlds reefs were damaged, some irreparably.</p>
+                <p>Covering only 0.1% of the world's ocean regions, coral is already in limited supply - and yet more than 25% of 
+                  marine life is dependant on reefs. Often called rainforests of the sea, these are precious and delicate organisms.
+                  
+                </p>
+              
+              </div>
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-sm-12 desc">
+              <img class ='img-fluid resize' src="Photo_by_Max_Flinterman_from_Pexels.jpg" alt="Stranger">
             </div>
 
 
         </div>
-        </div>
+
       </a>
+
+
+      <div id="accordion">
+        <div class="card">
+          <div class="card-header" id="headingOne">
+            <h5 class="mb-0">
+              <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Collapsible Group Item #1
+              </button>
+            </h5>
+          </div>
+      
+          <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="card-body">
+              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingTwo">
+            <h5 class="mb-0">
+              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                Collapsible Group Item #2
+              </button>
+            </h5>
+          </div>
+          <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+            <div class="card-body">
+              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingThree">
+            <h5 class="mb-0">
+              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Collapsible Group Item #3
+              </button>
+            </h5>
+          </div>
+          <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+            <div class="card-body">
+              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="chart">
+        <button class="btn btn-outline-secondary btn-lg">Order</button>
+      </div>
       <script src="main.js"></script>
     </body>
+
     <a id='contact'>
       <div class='jumbotron text-center pt-7 bg-dark text-white' style='margin-bottom:0'>
-        <h4 class="feature-title">Get in Touch!</h4>
+        <h4 class="feature-title">Contact Us</h4>
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Name" name="">
         </div>
