@@ -1,0 +1,3922 @@
+[
+ {
+   "organisation": "Twitch",
+   "records lost": "10,000,000",
+   "year": 2021,
+   "date": "Oct-21",
+   "sector": "gaming",
+   "data sensitivity": 4,
+   "source name": "BBC",
+   "1st source link": "https://www.bbc.co.uk/news/technology-58817658"
+ },
+ {
+   "organisation": "Syniverse",
+   "records lost": "500,000,000",
+   "year": 2021,
+   "date": "Sep-21",
+   "sector": "telecoms",
+   "data sensitivity": 4,
+   "source name": "Vice",
+   "1st source link": "https://www.vice.com/en/article/z3xpm8/company-that-routes-billions-of-text-messages-quietly-says-it-was-hacked"
+ },
+ {
+   "organisation": "Pandora Papers",
+   "records lost": "11,900,000",
+   "year": 2021,
+   "date": "Oct-21",
+   "sector": "government",
+   "data sensitivity": 4,
+   "source name": "Guardian",
+   "1st source link": "https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful"
+ },
+ {
+   "organisation": "Neiman Marcus",
+   "records lost": "4,600,000",
+   "year": 2021,
+   "date": "Sep-21",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "Ars Technica",
+   "1st source link": "https://arstechnica.com/information-technology/2021/10/neiman-marcus-data-breach-impacts-4-6-million-customers/"
+ },
+ {
+   "organisation": "Epik",
+   "records lost": "15,000,000",
+   "year": 2021,
+   "date": "Sep-21",
+   "sector": "retail",
+   "data sensitivity": 5,
+   "source name": "Ars Technica",
+   "1st source link": "https://arstechnica.com/information-technology/2021/09/epik-data-breach-impacts-15-million-users-including-non-customers/"
+ },
+ {
+   "organisation": "Thailand visitors",
+   "records lost": "100,000,000",
+   "year": 2021,
+   "date": "Sep-21",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "South China Morning Post",
+   "1st source link": "https://www.scmp.com/news/asia/southeast-asia/article/3149475/details-some-100-million-visitors-thailand-exposed-online"
+ },
+ {
+   "organisation": "T-Mobile ",
+   "records lost": "40,000,000",
+   "year": 2021,
+   "date": "Aug-21",
+   "sector": "telecoms",
+   "data sensitivity": 3,
+   "source name": "Krebson Security",
+   "1st source link": "https://krebsonsecurity.com/2021/08/t-mobile-breach-exposed-ssn-dob-of-40m-people/"
+ },
+ {
+   "organisation": "Contact tracing data",
+   "records lost": "38,000,000",
+   "year": 2021,
+   "date": "Aug-21",
+   "sector": "telecoms",
+   "data sensitivity": 3,
+   "source name": "Wired",
+   "1st source link": "https://www.wired.com/story/microsoft-power-apps-data-exposed/"
+ },
+ {
+   "organisation": "Estonian gov",
+   "records lost": "280,000",
+   "year": 2021,
+   "date": "Jul-21",
+   "sector": "government",
+   "data sensitivity": 4,
+   "source name": "News ERR",
+   "1st source link": "https://news.err.ee/1608291072/hacker-downloads-close-to-300-000-personal-id-photos"
+ },
+ {
+   "organisation": "Guntrader",
+   "records lost": "111,000",
+   "year": 2021,
+   "date": "Jul-21",
+   "sector": "retail",
+   "data sensitivity": 2,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.com/2021/07/23/guntrader_hacked_111k_users_sql_database/"
+ },
+ {
+   "organisation": "Linkedin",
+   "records lost": "700,000,000",
+   "year": 2021,
+   "date": "Jul-21",
+   "sector": "web ",
+   "data sensitivity": 1,
+   "source name": "9 to 5 mac",
+   "1st source link": "https://9to5mac.com/2021/06/29/linkedin-breach/"
+ },
+ {
+   "organisation": "VW",
+   "records lost": "3,300,000",
+   "year": 2021,
+   "date": "Jun-21",
+   "sector": "transport",
+   "data sensitivity": 2,
+   "source name": "Reuters",
+   "1st source link": "https://www.reuters.com/business/autos-transportation/vw-says-data-breach-vendor-impacted-33-million-people-north-america-2021-06-11/"
+ },
+ {
+   "organisation": "MacDonalds",
+   "records lost": "10,000,000",
+   "year": 2021,
+   "date": "Jun-21",
+   "sector": "retail",
+   "data sensitivity": 2,
+   "source name": "Wall St Journal",
+   "1st source link": "https://www.wsj.com/articles/mcdonalds-hit-by-data-breach-in-south-korea-taiwan-11623412800"
+ },
+ {
+   "organisation": "Air India",
+   "records lost": "4,500,000",
+   "year": 2021,
+   "date": "May-21",
+   "sector": "transport",
+   "data sensitivity": 2,
+   "source name": "Indian Express",
+   "1st source link": "https://indianexpress.com/article/explained/air-india-sita-data-breach-explained-7325501/"
+ },
+ {
+   "organisation": "Omiai dating app",
+   "records lost": "1,710,000",
+   "year": 2021,
+   "date": "May-21",
+   "sector": "app",
+   "data sensitivity": 2,
+   "source name": "Japan Times",
+   "1st source link": "https://www.japantimes.co.jp/news/2021/05/22/business/tech/omiai-dating-app-hack-japan/"
+ },
+ {
+   "organisation": "Amazon Reviews",
+   "records lost": "13,124,962",
+   "year": 2021,
+   "date": "May-21",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "Safety Detectives",
+   "1st source link": "https://www.safetydetectives.com/blog/amazon-reviews-leak-report/"
+ },
+ {
+   "organisation": "Peloton",
+   "records lost": "3,000,000",
+   "year": 2021,
+   "date": "May-21",
+   "sector": "tech",
+   "data sensitivity": 2,
+   "source name": "Ars Technica",
+   "1st source link": "https://arstechnica.com/gadgets/2021/05/peloton-takes-3-months-to-fix-flaw-that-exposed-users-private-information/#p3"
+ },
+ {
+   "organisation": "Digital Ocean",
+   "records lost": "10,000,000",
+   "year": 2021,
+   "date": "Apr-21",
+   "sector": "tech",
+   "data sensitivity": null,
+   "source name": "Tech Crunch",
+   "1st source link": "https://techcrunch.com/2021/04/28/digitalocean-customer-billing-data-breach/"
+ },
+ {
+   "organisation": "Park Mobile",
+   "records lost": "21,000,000",
+   "year": 2021,
+   "date": "Apr-21",
+   "sector": "transport",
+   "data sensitivity": 2,
+   "source name": "Krebson Security",
+   "1st source link": "https://krebsonsecurity.com/2021/04/parkmobile-breach-exposes-license-plate-data-mobile-numbers-of-21m-users/"
+ },
+ {
+   "organisation": "Ubiquiti",
+   "records lost": "16,000,000",
+   "year": 2021,
+   "date": "Feb-21",
+   "sector": "tech",
+   "data sensitivity": 2,
+   "source name": "ZDNet",
+   "1st source link": "https://www.zdnet.com/article/ubiquiti-tells-customers-to-change-passwords-after-security-breach/"
+ },
+ {
+   "organisation": "Meet Mindful",
+   "records lost": "2,240,000",
+   "year": 2021,
+   "date": "Feb-21",
+   "sector": "tech",
+   "data sensitivity": 4,
+   "source name": "ZDnet",
+   "1st source link": "https://www.zdnet.com/article/hacker-leaks-data-of-2-28-million-dating-site-users/"
+ },
+ {
+   "organisation": "Experian Brazil",
+   "records lost": "220,000,000",
+   "year": 2021,
+   "date": "Feb-21",
+   "sector": "finance",
+   "data sensitivity": 2,
+   "source name": "ZDNet",
+   "1st source link": "https://www.zdnet.com/article/experian-challenged-over-massive-data-leak-in-brazil/"
+ },
+ {
+   "organisation": "Gab",
+   "records lost": "4,000,000",
+   "year": 2021,
+   "date": " Mar 2021",
+   "sector": "tech",
+   "data sensitivity": 3,
+   "source name": "Wired",
+   "1st source link": "https://www.wired.com/story/gab-hack-data-breach-ddosecrets/"
+ },
+ {
+   "organisation": "Star Alliance",
+   "records lost": "16,000,000",
+   "year": 2021,
+   "date": " Mar 2021",
+   "sector": "transport",
+   "data sensitivity": 1,
+   "source name": "The Guardian",
+   "1st source link": "https://www.theguardian.com/world/2021/mar/05/airline-data-hack-hundreds-of-thousands-of-star-alliance-passengers-details-stolen"
+ },
+ {
+   "organisation": "Facebook",
+   "records lost": "533,000,000",
+   "year": 2021,
+   "date": " Mar 2021",
+   "sector": "tech",
+   "data sensitivity": 1,
+   "source name": "Business Insider",
+   "1st source link": "https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4?r=US&IR=T"
+ },
+ {
+   "organisation": "Ledger",
+   "records lost": "270,000",
+   "year": 2020,
+   "date": " Dec 2020",
+   "sector": "finance",
+   "data sensitivity": 2,
+   "source name": "Bleeping Computer",
+   "1st source link": "https://www.bleepingcomputer.com/news/security/physical-addresses-of-270k-ledger-owners-leaked-on-hacker-forum/"
+ },
+ {
+   "organisation": "T-mobile",
+   "records lost": "200,000",
+   "year": 2020,
+   "date": " Dec 2020",
+   "sector": "telecoms",
+   "data sensitivity": 1,
+   "source name": "Bleeping Computer",
+   "1st source link": "https://www.bleepingcomputer.com/news/security/t-mobile-data-breach-exposed-phone-numbers-call-records/"
+ },
+ {
+   "organisation": "The Hospital Group",
+   "records lost": "1,000,000",
+   "year": 2020,
+   "date": " Dec 2020",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "BBC",
+   "1st source link": "https://www.bbc.co.uk/news/technology-55439190"
+ },
+ {
+   "organisation": "SolarWinds",
+   "records lost": "50,000,000",
+   "year": 2020,
+   "date": " Dec 2020",
+   "sector": "app",
+   "data sensitivity": 3,
+   "source name": "New York Times",
+   "1st source link": "https://www.nytimes.com/2020/12/14/us/politics/russia-hack-nsa-homeland-security-pentagon.html"
+ },
+ {
+   "organisation": "Ho Mobile",
+   "records lost": "2,500,000",
+   "year": 2020,
+   "date": " Dec 2020",
+   "sector": "telecoms",
+   "data sensitivity": 2,
+   "source name": "ZD Net",
+   "1st source link": "https://www.zdnet.com/article/italian-mobile-operator-offers-to-replace-sim-cards-after-massive-data-breach/"
+ },
+ {
+   "organisation": "Spotify",
+   "records lost": "500,000",
+   "year": 2020,
+   "date": " Dec 2020",
+   "sector": "app",
+   "data sensitivity": 1,
+   "source name": "Tech Crunch",
+   "1st source link": "https://techcrunch.com/2020/12/10/spotify-resets-user-passwords-after-a-bug-exposed-private-account-information/?guccounter=1&guce_referrer=aHR0cHM6Ly9pdC5zbGFzaGRvdC5vcmcv&guce_referrer_sig=AQAAAMGNMpm00iWQgE4Zhw1q6_5FoeBsJUbWyKEniavHxaZR-X1oBrnXuFtvr9B4IYBK1C6x9AfEqEZwzfJaZhhINvaBZltXd-DF036LVwwnAhWAMQpD98Lahw3sni-Z2bS6qEIjPgodPdZHV3DRJWLrNt0bOoohuh_DWM8-IngVnCl6"
+ },
+ {
+   "organisation": "Drizly",
+   "records lost": "2,400,000",
+   "year": 2020,
+   "date": " Sep 2020",
+   "sector": "app",
+   "data sensitivity": 2,
+   "source name": "Tech Crunch",
+   "1st source link": "https://techcrunch.com/2020/07/28/drizly-data-breach/"
+ },
+ {
+   "organisation": "GEDmatch",
+   "records lost": "1,400,000",
+   "year": 2020,
+   "date": " Sep 2020",
+   "sector": "misc, health",
+   "data sensitivity": 5,
+   "source name": "New York Times",
+   "1st source link": "https://www.nytimes.com/2020/08/01/technology/gedmatch-breach-privacy.html?referringSource=articleShare"
+ },
+ {
+   "organisation": "Call of Duty / Activision",
+   "records lost": "500,000",
+   "year": 2020,
+   "date": " Sep 2020",
+   "sector": "gaming",
+   "data sensitivity": 1,
+   "source name": "Forbes",
+   "1st source link": "https://www.forbes.com/sites/daveywinder/2020/09/21/activision-accounts-hacked-500000-call-of-duty-players-could-be-affected-report/?sh=7ca04e0f7bbe"
+ },
+ {
+   "organisation": "Zhenhua",
+   "records lost": "2,400,000",
+   "year": 2020,
+   "date": " Sep 2020",
+   "sector": "misc",
+   "data sensitivity": 1,
+   "source name": "The Guardian",
+   "1st source link": "https://www.theguardian.com/world/2020/sep/14/zhenhua-data-full-list-leak-database-personal-details-millions-china-tech-company"
+ },
+ {
+   "organisation": "Cense AI",
+   "records lost": "2,500,000",
+   "year": 2020,
+   "date": " Aug 2020",
+   "sector": "tech, health",
+   "data sensitivity": 4,
+   "source name": "PC Mag",
+   "1st source link": "https://uk.pcmag.com/encryption/128228/report-ai-company-leaks-over-25m-medical-records"
+ },
+ {
+   "organisation": "Nintendo",
+   "records lost": "300,000",
+   "year": 2020,
+   "date": " Apr 2020",
+   "sector": "gaming",
+   "data sensitivity": 3,
+   "source name": "Tech Crunch",
+   "1st source link": "https://techcrunch.com/2020/06/09/nintendo-accounts-affected-breach/?guccounter=1&guce_referrer=aHR0cHM6Ly9nYW1lcy5zbGFzaGRvdC5vcmcvc3RvcnkvMjAvMDYvMDkvMTg0MjIzNy9uaW50ZW5kby1ub3ctc2F5cy0zMDAwMDAtYWNjb3VudHMtYnJlYWNoZWQtYnktaGFja2Vycz91dG1fc291cmNlPXJzczEuMG1haW5saW5rYW5vbiZ1dG1fbWVkaXVtPWZlZWQ&guce_referrer_sig=AQAAAIXC8IvaFgPdt5t-CUm7yPEhKblsmme4097SUtEWdSkjyrdsxVYiQBfbdpekm_Y29T7evb-5zNNl2-ZHfNSmVkKFnE5vClvpvsaPYykOO8WtAX76dZoL2EUkVL8XfmMQBVlNF43T5MATGNeSnwn6Ta6ELVBXnf_ZTsmVaemjk1Vf"
+ },
+ {
+   "organisation": "Pakistani mobile operators",
+   "records lost": "115,000,000",
+   "year": 2020,
+   "date": " Apr 2020",
+   "sector": "telecoms",
+   "data sensitivity": 2,
+   "source name": "ZDNet",
+   "1st source link": "https://www.zdnet.com/article/details-of-44m-pakistani-mobile-users-leaked-online-part-of-bigger-115m-cache/"
+ },
+ {
+   "organisation": "US Marshals Service",
+   "records lost": "387,000",
+   "year": 2020,
+   "date": " May 2020",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "NextGov",
+   "1st source link": "https://www.nextgov.com/cybersecurity/2020/05/us-marshals-service-breach-exposed-personal-data-387000-prisoners/165305/"
+ },
+ {
+   "organisation": "db8151dd",
+   "records lost": "22,000,000",
+   "year": 2020,
+   "date": " May 2020",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "9 to 5 Mac",
+   "1st source link": "https://9to5mac.com/2020/05/15/db8151dd/"
+ },
+ {
+   "organisation": "EasyJet",
+   "records lost": "9,000,000",
+   "year": 2020,
+   "date": " May 2020",
+   "sector": "transport",
+   "data sensitivity": 3,
+   "source name": "BBC",
+   "1st source link": "https://www.bbc.co.uk/news/technology-52722626"
+ },
+ {
+   "organisation": "Microsoft",
+   "records lost": "250,000,000",
+   "year": 2020,
+   "date": " Jan 2020",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Forbes",
+   "1st source link": "https://www.forbes.com/sites/daveywinder/2020/01/22/microsoft-security-shocker-as-250-million-customer-records-exposed-online/#91076484d1b3"
+ },
+ {
+   "organisation": "Dutch Government",
+   "records lost": "6,900,000",
+   "year": 2020,
+   "date": " Mar 2020",
+   "sector": "government",
+   "data sensitivity": 4,
+   "source name": "ZDNet",
+   "1st source link": "https://www.zdnet.com/article/dutch-government-loses-hard-drives-with-data-of-6-9-million-registered-donors/"
+ },
+ {
+   "organisation": "Virgin Media",
+   "records lost": "900,000",
+   "year": 2020,
+   "date": " Mar 2020",
+   "sector": "retail",
+   "data sensitivity": 1,
+   "source name": "BBC ",
+   "1st source link": "https://www.bbc.co.uk/news/business-51760510"
+ },
+ {
+   "organisation": "Boots Advantage Card",
+   "records lost": "150,000",
+   "year": 2020,
+   "date": " Mar 2020",
+   "sector": "retail",
+   "data sensitivity": 1,
+   "source name": "Which",
+   "1st source link": "https://www.which.co.uk/news/2020/03/boots-advantage-card-tesco-clubcard-both-suffer-data-breaches-in-same-week/"
+ },
+ {
+   "organisation": "Tesco Clubcard",
+   "records lost": "600,000",
+   "year": 2020,
+   "date": " Mar 2020",
+   "sector": "retail",
+   "data sensitivity": 1,
+   "source name": "Tech Radar",
+   "1st source link": "https://www.techradar.com/uk/news/tesco-clubcard-holders-warned-of-major-security-issue"
+ },
+ {
+   "organisation": "Marriott Hotels",
+   "records lost": "5,200,000",
+   "year": 2020,
+   "date": " Mar 2020",
+   "sector": "retail",
+   "data sensitivity": 2,
+   "source name": "Marriott",
+   "1st source link": "https://news.marriott.com/news/2020/03/31/marriott-international-notifies-guests-of-property-system-incident"
+ },
+ {
+   "organisation": "Zoom",
+   "records lost": "500,000",
+   "year": 2020,
+   "date": " Apr 2020",
+   "sector": "app",
+   "data sensitivity": 1,
+   "source name": "We Live Security",
+   "1st source link": "https://www.welivesecurity.com/2020/04/16/half-million-zoom-accounts-sale-dark-web/"
+ },
+ {
+   "organisation": "Israeli government",
+   "records lost": "6,500,000",
+   "year": 2020,
+   "date": " Feb 2020",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "NYTimes",
+   "1st source link": "https://www.nytimes.com/2020/02/10/world/middleeast/israeli-voters-leak.html?action=click&module=News&pgtype=Homepage"
+ },
+ {
+   "organisation": "MGM Hotels",
+   "records lost": "10,600,000",
+   "year": 2020,
+   "date": " Feb 2020",
+   "sector": "retail",
+   "data sensitivity": 2,
+   "source name": "ZDNet",
+   "1st source link": "https://www.zdnet.com/article/exclusive-details-of-10-6-million-of-mgm-hotel-guests-posted-on-a-hacking-forum/"
+ },
+ {
+   "organisation": "Buchbinder Car Rentals",
+   "records lost": "5,000,000",
+   "year": 2020,
+   "date": " Jan 2020",
+   "sector": "transport",
+   "data sensitivity": 2,
+   "source name": "Teller Report",
+   "1st source link": "https://www.tellerreport.com/news/2020-01-22---big-data-leak--media--at-buchbinder-car-rental-company--customer-data-was-open-.BJ-S5Jk8Z8.html"
+ },
+ {
+   "organisation": "Wawa",
+   "records lost": "30,000,000",
+   "year": 2019,
+   "date": " Dec 2019",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "Krebs on Security",
+   "1st source link": "https://krebsonsecurity.com/2020/01/wawa-breach-may-have-compromised-more-than-30-million-payment-cards/"
+ },
+ {
+   "organisation": "Desjardins Group",
+   "records lost": "4,200,000",
+   "year": 2019,
+   "date": " Jun 2019",
+   "sector": "finance",
+   "data sensitivity": 2,
+   "source name": "CBC",
+   "1st source link": "https://www.cbc.ca/news/canada/montreal/desjardins-data-breach-1.5344216"
+ },
+ {
+   "organisation": "US Customs and Border Protection",
+   "records lost": "100,000",
+   "year": 2019,
+   "date": " Jun 2019",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Washington Post",
+   "1st source link": "https://www.washingtonpost.com/technology/2019/06/10/us-customs-border-protection-says-photos-travelers-into-out-country-were-recently-taken-data-breach/?utm_term=.69c66aaf152f"
+ },
+ {
+   "organisation": "Quest Diagnostics",
+   "records lost": "20,000,000",
+   "year": 2019,
+   "date": " Jun 2019",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "ZDNet",
+   "1st source link": "https://www.zdnet.com/article/amca-data-breach-has-now-gone-over-the-20-million-mark/"
+ },
+ {
+   "organisation": "Australian National University",
+   "records lost": "200,000",
+   "year": 2019,
+   "date": " Jun 2019",
+   "sector": "academic",
+   "data sensitivity": 4,
+   "source name": "Guardian",
+   "1st source link": "https://www.theguardian.com/australia-news/2019/jun/04/australian-national-university-hit-by-huge-data-breach"
+ },
+ {
+   "organisation": "Canva",
+   "records lost": "139,000,000",
+   "year": 2019,
+   "date": " May 2019",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "ZDNet",
+   "1st source link": "https://www.zdnet.com/article/australian-tech-unicorn-canva-suffers-security-breach/"
+ },
+ {
+   "organisation": "Chtrbox",
+   "records lost": "49,000,000",
+   "year": 2019,
+   "date": " May 2019",
+   "sector": "misc",
+   "data sensitivity": 1,
+   "source name": "Techcrunch",
+   "1st source link": "https://techcrunch.com/2019/05/20/instagram-influencer-celebrity-accounts-scraped/"
+ },
+ {
+   "organisation": "WiFi Finder",
+   "records lost": "2,000,000",
+   "year": 2019,
+   "date": " Apr 2019",
+   "sector": "app",
+   "data sensitivity": 1,
+   "source name": "Techcrunch",
+   "1st source link": "https://techcrunch.com/2019/04/22/hotspot-password-leak/"
+ },
+ {
+   "organisation": "Toyota",
+   "records lost": "3,100,000",
+   "year": 2019,
+   "date": " Apr 2019",
+   "sector": "transport",
+   "data sensitivity": 2,
+   "source name": "Bleeping Computer",
+   "1st source link": "https://www.bleepingcomputer.com/news/security/toyota-security-breach-exposes-personal-info-of-31-million-clients/"
+ },
+ {
+   "organisation": "Unknown",
+   "records lost": "1,800,000",
+   "year": 2019,
+   "date": " Mar 2019",
+   "sector": "web",
+   "data sensitivity": 4,
+   "source name": "The Guardian",
+   "1st source link": "https://www.theguardian.com/world/2019/mar/11/china-database-lists-breedready-status-of-18-million-women"
+ },
+ {
+   "organisation": "Vårdguiden",
+   "records lost": "2,700,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "health ",
+   "data sensitivity": 5,
+   "source name": "ComputerSweden",
+   "1st source link": "https://computersweden.idg.se/2.2683/1.714787/inspelade-samtal-1177-vardguiden-oskyddade-internet"
+ },
+ {
+   "organisation": "Dubsmash",
+   "records lost": "162,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web ",
+   "data sensitivity": 1,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/"
+ },
+ {
+   "organisation": "ShareThis",
+   "records lost": "41,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/"
+ },
+ {
+   "organisation": "HauteLook",
+   "records lost": "28,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "retail",
+   "data sensitivity": 1,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/"
+ },
+ {
+   "organisation": "Animoto",
+   "records lost": "25,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/"
+ },
+ {
+   "organisation": "EyeEm",
+   "records lost": "22,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/"
+ },
+ {
+   "organisation": "8fit",
+   "records lost": "20,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/"
+ },
+ {
+   "organisation": "Whitepages",
+   "records lost": "18,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/"
+ },
+ {
+   "organisation": "Fotolog",
+   "records lost": "16,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/"
+ },
+ {
+   "organisation": "Armor Games",
+   "records lost": "11,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "gaming",
+   "data sensitivity": 1,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/"
+ },
+ {
+   "organisation": "BookMate",
+   "records lost": "8,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/"
+ },
+ {
+   "organisation": "CoffeeMeetsBagel",
+   "records lost": "6,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/"
+ },
+ {
+   "organisation": "Artsy",
+   "records lost": "1,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/"
+ },
+ {
+   "organisation": "DataCamp",
+   "records lost": "700,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "The Register",
+   "1st source link": "https://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/"
+ },
+ {
+   "organisation": "Ixigo",
+   "records lost": "18,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "transport",
+   "data sensitivity": 1,
+   "source name": "Techcrunch",
+   "1st source link": "https://techcrunch.com/2019/02/14/hacker-strikes-again/"
+ },
+ {
+   "organisation": "YouNow",
+   "records lost": "40,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Techcrunch",
+   "1st source link": "https://techcrunch.com/2019/02/14/hacker-strikes-again/"
+ },
+ {
+   "organisation": "Houzz",
+   "records lost": "57,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "retail",
+   "data sensitivity": 2,
+   "source name": "Techcrunch",
+   "1st source link": "https://techcrunch.com/2019/01/31/houzz-data-breach/"
+ },
+ {
+   "organisation": "Ge.tt",
+   "records lost": "1,800,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Techcrunch",
+   "1st source link": "https://techcrunch.com/2019/02/14/hacker-strikes-again/"
+ },
+ {
+   "organisation": "Coinmama",
+   "records lost": "450,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "finance",
+   "data sensitivity": 1,
+   "source name": "Techcrunch",
+   "1st source link": "https://techcrunch.com/2019/02/14/hacker-strikes-again/"
+ },
+ {
+   "organisation": "Roll20",
+   "records lost": "4,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "gaming",
+   "data sensitivity": 1,
+   "source name": "Techcrunch",
+   "1st source link": "https://techcrunch.com/2019/02/14/hacker-strikes-again/"
+ },
+ {
+   "organisation": "Stronghold Kingdoms",
+   "records lost": "5,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "gaming",
+   "data sensitivity": 1,
+   "source name": "Techcrunch",
+   "1st source link": "https://techcrunch.com/2019/02/14/hacker-strikes-again/"
+ },
+ {
+   "organisation": "Petflow",
+   "records lost": "1,000,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "retail",
+   "data sensitivity": 1,
+   "source name": "Techcrunch",
+   "1st source link": "https://techcrunch.com/2019/02/14/hacker-strikes-again/"
+ },
+ {
+   "organisation": "500px",
+   "records lost": "14,800,000",
+   "year": 2019,
+   "date": " Feb 2019",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "PetaPixel",
+   "1st source link": "https://petapixel.com/2019/02/13/500px-hacked-personal-data-stolen-from-all-14-8-million-users/"
+ },
+ {
+   "organisation": "Blur",
+   "records lost": "2,400,000",
+   "year": 2019,
+   "date": " Jan 2019",
+   "sector": "tech",
+   "data sensitivity": 1,
+   "source name": "ZDNet",
+   "1st source link": "https://www.zdnet.com/article/data-of-2-4-million-blur-password-manager-users-left-exposed-online/"
+ },
+ {
+   "organisation": "Blank Media Games",
+   "records lost": "7,600,000",
+   "year": 2019,
+   "date": " Jan 2019",
+   "sector": "gaming",
+   "data sensitivity": 1,
+   "source name": "ZDNet",
+   "1st source link": "https://www.zdnet.com/article/town-of-salem-game-suffers-data-breach-exposing-7-6-million-user-details/"
+ },
+ {
+   "organisation": "Indian citizens",
+   "records lost": "275,265,298",
+   "year": 2019,
+   "date": " May 2019",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "Bleeping Computer",
+   "1st source link": "https://www.bleepingcomputer.com/news/security/over-275-million-records-exposed-by-unsecured-mongodb-database/"
+ },
+ {
+   "organisation": "Bulgarian National Revenue Agency",
+   "records lost": "5,000,000",
+   "year": 2019,
+   "date": " Jul 2019",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "ZDNet",
+   "1st source link": "https://www.zdnet.com/article/hacker-steals-data-of-millions-of-bulgarians-emails-it-to-local-media/"
+ },
+ {
+   "organisation": "Capital One",
+   "records lost": "100,000,000",
+   "year": 2019,
+   "date": " Jul 2019",
+   "sector": "finance",
+   "data sensitivity": 3,
+   "source name": "Forbes",
+   "1st source link": "https://www.forbes.com/sites/rachelsandler/2019/07/29/capital-one-says-hacker-breached-accounts-of-100-million-people-ex-amazon-employee-arrested/#2a5cb36b41d2"
+ },
+ {
+   "organisation": "Suprema",
+   "records lost": "27,800,000",
+   "year": 2019,
+   "date": " Aug 2019",
+   "sector": "tech",
+   "data sensitivity": 5,
+   "source name": "Guardian",
+   "1st source link": "https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms"
+ },
+ {
+   "organisation": "Facebook",
+   "records lost": "419,000,000",
+   "year": 2019,
+   "date": " Sep 2019",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "Fast Company",
+   "1st source link": "https://www.fastcompany.com/90399734/the-phone-numbers-of-419-million-facebook-accounts-have-been-leaked"
+ },
+ {
+   "organisation": "DoorDash",
+   "records lost": "4,900,000",
+   "year": 2019,
+   "date": " Sep 2019",
+   "sector": "transport",
+   "data sensitivity": 2,
+   "source name": "Techcrunch",
+   "1st source link": "https://techcrunch.com/2019/09/26/doordash-data-breach/"
+ },
+ {
+   "organisation": "BriansClub",
+   "records lost": "26,000,000",
+   "year": 2019,
+   "date": " Oct 2019",
+   "sector": "web",
+   "data sensitivity": 3,
+   "source name": "Ars Technica",
+   "1st source link": "https://arstechnica.com/information-technology/2019/10/data-for-a-whopping-26-million-stolen-payment-cards-leaked-in-hack-of-fraud-bazaar/"
+ },
+ {
+   "organisation": "OxyData",
+   "records lost": "380,000,000",
+   "year": 2019,
+   "date": " Nov 2019",
+   "sector": "tech",
+   "data sensitivity": 2,
+   "source name": "Dataviper",
+   "1st source link": "https://www.dataviper.io/blog/2019/pdl-data-exposure-billion-people/"
+ },
+ {
+   "organisation": "Click2Gov",
+   "records lost": "300,000",
+   "year": 2018,
+   "date": " Dec 2018",
+   "sector": "finance",
+   "data sensitivity": 3,
+   "source name": "Fortune",
+   "1st source link": "http://fortune.com/2018/12/18/click2gov-local-government-portals-hackers-credit-card-breach/"
+ },
+ {
+   "organisation": "SingHealth",
+   "records lost": "1,500,000",
+   "year": 2018,
+   "date": " Jul 2018",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Straits Times",
+   "1st source link": "https://www.straitstimes.com/singapore/personal-info-of-15m-singhealth-patients-including-pm-lee-stolen-in-singapores-most"
+ },
+ {
+   "organisation": "GovPayNow.com",
+   "records lost": "14,000,000",
+   "year": 2018,
+   "date": " Sep 2018",
+   "sector": "finance",
+   "data sensitivity": 2,
+   "source name": "Krebs on Security",
+   "1st source link": "https://krebsonsecurity.com/2018/09/govpaynow-com-leaks-14m-records/"
+ },
+ {
+   "organisation": "Cathay Pacific Airways",
+   "records lost": "94,000,000",
+   "year": 2018,
+   "date": " Oct 2018",
+   "sector": "transport",
+   "data sensitivity": 3,
+   "source name": "ABC News",
+   "1st source link": "https://www.abc.net.au/news/2018-10-25/cathay-pacific-data-breach-affects-9.4-million-customers/10429878"
+ },
+ {
+   "organisation": "Chinese resume leak",
+   "records lost": "202,000,000",
+   "year": 2018,
+   "date": " Dec 2018",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "HackenProof",
+   "1st source link": "https://blog.hackenproof.com/industry-news/202-million-private-resumes-exposed"
+ },
+ {
+   "organisation": "Google+",
+   "records lost": "52,500,000",
+   "year": 2018,
+   "date": " Dec 2018",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "The Verge",
+   "1st source link": "https://www.theverge.com/2018/12/10/18134541/google-plus-privacy-api-data-leak-developers"
+ },
+ {
+   "organisation": "Quora",
+   "records lost": "100,000,000",
+   "year": 2018,
+   "date": " Dec 2018",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "NY Times",
+   "1st source link": "https://www.nytimes.com/2018/12/04/technology/quora-hack-data-breach.html"
+ },
+ {
+   "organisation": "Marriott International",
+   "records lost": "383,000,000",
+   "year": 2018,
+   "date": " Nov 2018",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "NY Times, CNET",
+   "1st source link": "https://www.nytimes.com/2018/11/30/business/marriott-data-breach.html"
+ },
+ {
+   "organisation": "NMBS",
+   "records lost": "700,000",
+   "year": 2018,
+   "date": " Dec 2018",
+   "sector": "transport",
+   "data sensitivity": 2,
+   "source name": "Flanders Today",
+   "1st source link": "http://www.flanderstoday.eu/business/nmbs-data-leak-was-breach-privacy"
+ },
+ {
+   "organisation": "Facebook",
+   "records lost": "50,000,000",
+   "year": 2018,
+   "date": " Mar 2018",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Guardian",
+   "1st source link": "https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election?CMP=twt_gu"
+ },
+ {
+   "organisation": "Panerabread",
+   "records lost": "37,000,000",
+   "year": 2018,
+   "date": " Apr 2018",
+   "sector": "retail",
+   "data sensitivity": 2,
+   "source name": "Krebsonsecurity, Medium",
+   "1st source link": "https://krebsonsecurity.com/2018/04/panerabread-com-leaks-millions-of-customer-records/"
+ },
+ {
+   "organisation": "Dixons Carphone",
+   "records lost": "10,000,000",
+   "year": 2018,
+   "date": " Jun 2018",
+   "sector": "telecoms",
+   "data sensitivity": 1,
+   "source name": "BBC",
+   "1st source link": "https://www.bbc.co.uk/news/business-45016906"
+ },
+ {
+   "organisation": "MyHeritage",
+   "records lost": "92,283,889",
+   "year": 2018,
+   "date": " Jun 2018",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Bloomberg",
+   "1st source link": "https://www.bloombergquint.com/technology/hack-of-dna-website-exposes-data-from-92-million-user-accounts"
+ },
+ {
+   "organisation": "Saks and Lord & Taylor",
+   "records lost": "5,000,000",
+   "year": 2018,
+   "date": " Apr 2018",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "NYTimes",
+   "1st source link": "https://www.nytimes.com/2018/04/01/technology/saks-lord-taylor-credit-cards.html"
+ },
+ {
+   "organisation": "Careem",
+   "records lost": "14,000,000",
+   "year": 2018,
+   "date": " Apr 2018",
+   "sector": "app",
+   "data sensitivity": 2,
+   "source name": "Khaleej Times",
+   "1st source link": "https://www.khaleejtimes.com/nation/dubai//dubais-careem-admits-to-data-breach-of-14-million-users"
+ },
+ {
+   "organisation": "Texas voter records",
+   "records lost": "14,800,000",
+   "year": 2018,
+   "date": " Aug 2018",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "TechCrunch",
+   "1st source link": "https://techcrunch.com/2018/08/23/millions-of-texas-voter-records-exposed-online/"
+ },
+ {
+   "organisation": "British Airways",
+   "records lost": "380,000",
+   "year": 2018,
+   "date": " Sep 2018",
+   "sector": "transport",
+   "data sensitivity": 4,
+   "source name": "Guardian",
+   "1st source link": "https://www.theguardian.com/business/2018/sep/06/british-airways-customer-data-stolen-from-its-website"
+ },
+ {
+   "organisation": "T-Mobile",
+   "records lost": "2,000,000",
+   "year": 2018,
+   "date": " Aug 2018",
+   "sector": "telecoms",
+   "data sensitivity": 1,
+   "source name": "Motherboard",
+   "1st source link": "https://motherboard.vice.com/en_us/article/a3qpk5/t-mobile-hack-data-breach-api-customer-data"
+ },
+ {
+   "organisation": "MyFitnessPal",
+   "records lost": "150,000,000",
+   "year": 2018,
+   "date": " Mar 2018",
+   "sector": "app",
+   "data sensitivity": 1,
+   "source name": "Guardian",
+   "1st source link": "https://www.theguardian.com/technology/2018/mar/30/hackers-steal-data-150m-myfitnesspal-app-users-under-armour"
+ },
+ {
+   "organisation": "Helse Sør-Øst RHF",
+   "records lost": "3,000,000",
+   "year": 2018,
+   "date": " Feb 2018",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "It Governance",
+   "1st source link": "https://www.itgovernance.eu/blog/en/breach-at-norways-largest-healthcare-authority-was-a-disaster-waiting-to-happen"
+ },
+ {
+   "organisation": "Nametests",
+   "records lost": "120,000,000",
+   "year": 2018,
+   "date": " Jun 2018",
+   "sector": "app",
+   "data sensitivity": 1,
+   "source name": "Medium",
+   "1st source link": "https://medium.com/@intideceukelaire/this-popular-facebook-app-publicly-exposed-your-data-for-years-12483418eff8"
+ },
+ {
+   "organisation": "Ticketmaster",
+   "records lost": "40,000",
+   "year": 2018,
+   "date": " Jun 2018",
+   "sector": "web",
+   "data sensitivity": 3,
+   "source name": "BBC News",
+   "1st source link": "https://www.bbc.co.uk/news/technology-44628874"
+ },
+ {
+   "organisation": "Firebase",
+   "records lost": "100,000,000",
+   "year": 2018,
+   "date": " Jun 2018",
+   "sector": "app",
+   "data sensitivity": 5,
+   "source name": "Bleeping Computer",
+   "1st source link": "https://www.bleepingcomputer.com/news/security/thousands-of-apps-leak-sensitive-data-via-misconfigured-firebase-backends/"
+ },
+ {
+   "organisation": "Aadhaar",
+   "records lost": "550,000,000",
+   "year": 2018,
+   "date": " Mar 2018",
+   "sector": "government",
+   "data sensitivity": 4,
+   "source name": "ZDNet",
+   "1st source link": "http://www.zdnet.com/article/another-data-leak-hits-india-aadhaar-biometric-database/"
+ },
+ {
+   "organisation": "Grindr",
+   "records lost": "3,000,000",
+   "year": 2018,
+   "date": " Mar 2018",
+   "sector": "app",
+   "data sensitivity": 3,
+   "source name": "NBC News",
+   "1st source link": "https://www.nbcnews.com/feature/nbc-out/security-flaws-gay-dating-app-grindr-expose-users-location-data-n858446"
+ },
+ {
+   "organisation": "Orbitz",
+   "records lost": "880,000",
+   "year": 2018,
+   "date": " Mar 2018",
+   "sector": "web",
+   "data sensitivity": 3,
+   "source name": "US News",
+   "1st source link": "https://www.usnews.com/news/business/articles/2018-03-20/orbitz-legacy-travel-booking-platform-likely-hacked"
+ },
+ {
+   "organisation": "MBM Company",
+   "records lost": "1,300,000",
+   "year": 2018,
+   "date": " Mar 2018",
+   "sector": "retail",
+   "data sensitivity": 4,
+   "source name": "NextWeb",
+   "1st source link": "https://thenextweb.com/security/2018/03/14/jewelry-site-accidentally-leaks-personal-details-plaintext-passwords-1-3m-users/"
+ },
+ {
+   "organisation": "LocalBlox",
+   "records lost": "48,000,000",
+   "year": 2018,
+   "date": " May 2018",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "UpGuard",
+   "1st source link": "https://www.upguard.com/breaches/s3-localblox"
+ },
+ {
+   "organisation": "Twitter",
+   "records lost": "330,000,000",
+   "year": 2018,
+   "date": " May 2018",
+   "sector": "tech",
+   "data sensitivity": 1,
+   "source name": "Reuters",
+   "1st source link": "https://www.reuters.com/article/us-twitter-passwords/twitter-urges-all-users-to-change-passwords-after-glitch-idUSKBN1I42JG"
+ },
+ {
+   "organisation": "ViewFines",
+   "records lost": "934,000",
+   "year": 2018,
+   "date": " May 2018",
+   "sector": "transport",
+   "data sensitivity": 4,
+   "source name": "iAfrikan",
+   "1st source link": "https://www.iafrikan.com/2018/05/23/just-under-1-million-personal-records-of-south-africans-leaked-online/"
+ },
+ {
+   "organisation": "TicketFly",
+   "records lost": "27,000,000",
+   "year": 2018,
+   "date": " May 2018",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "The Verge",
+   "1st source link": "https://www.theverge.com/2018/6/7/17438516/ticketfly-hack-personal-information-26-million-customers-leaked"
+ },
+ {
+   "organisation": "Amazon",
+   "records lost": "5,000,000",
+   "year": 2018,
+   "date": " Nov 2018",
+   "sector": "retail",
+   "data sensitivity": 1,
+   "source name": "Guardian",
+   "1st source link": "https://www.theguardian.com/technology/2018/nov/21/amazon-hit-with-major-data-breach-days-before-black-friday"
+ },
+ {
+   "organisation": "Urban Massage",
+   "records lost": "309,000",
+   "year": 2018,
+   "date": " Nov 2018",
+   "sector": "app",
+   "data sensitivity": 2,
+   "source name": "Tech Crunch",
+   "1st source link": "https://techcrunch.com/2018/11/27/urban-massage-data-exposed-customers-creepy-clients/?guccounter=1"
+ },
+ {
+   "organisation": "Dell ",
+   "records lost": "100,000",
+   "year": 2018,
+   "date": " Nov 2018",
+   "sector": "tech",
+   "data sensitivity": 1,
+   "source name": "ZD Net",
+   "1st source link": "https://www.zdnet.com/article/dell-announces-security-breach/"
+ },
+ {
+   "organisation": "High Tail Hall",
+   "records lost": "411,000",
+   "year": 2018,
+   "date": " Nov 2018",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "Daily Mail",
+   "1st source link": "https://www.dailymail.co.uk/sciencetech/article-6415441/Furry-erotica-site-hit-data-breach-exposed-hundreds-thousands-users-information.html"
+ },
+ {
+   "organisation": "SKY Brasil",
+   "records lost": "32,000,000",
+   "year": 2018,
+   "date": " Nov 2018",
+   "sector": "telecoms",
+   "data sensitivity": 1,
+   "source name": "Bleeping Computer",
+   "1st source link": "https://www.bleepingcomputer.com/news/security/sky-brasil-exposes-32-million-customer-records/"
+ },
+ {
+   "organisation": "Vision Direct",
+   "records lost": "16,300",
+   "year": 2018,
+   "date": " Nov 2018",
+   "sector": "retail",
+   "data sensitivity": 4,
+   "source name": "BBC",
+   "1st source link": "https://www.bbc.co.uk/news/technology-46261209"
+ },
+ {
+   "organisation": "Medicare & Medicaid",
+   "records lost": "93,689",
+   "year": 2018,
+   "date": " Nov 2018",
+   "sector": "health ",
+   "data sensitivity": 2,
+   "source name": "HCA News",
+   "1st source link": "https://www.hcanews.com/news/update-94k-hit-in-cms-data-breach"
+ },
+ {
+   "organisation": "Facebook",
+   "records lost": "29,000,000",
+   "year": 2018,
+   "date": " Oct 2018",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "Business Insider, Facebook",
+   "1st source link": "https://www.businessinsider.com.au/facebook-thinks-spammers-responsible-hack-stole-info-from-29-million-users-2018-10?r=US&IR=T"
+ },
+ {
+   "organisation": "Newegg",
+   "records lost": "45,000,000",
+   "year": 2018,
+   "date": " Sep 2018",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "TechCrunch",
+   "1st source link": "https://techcrunch.com/2018/09/19/newegg-credit-card-data-breach/"
+ },
+ {
+   "organisation": "Mount Olympus",
+   "records lost": "1,100",
+   "year": 2016,
+   "date": " Mar 2016",
+   "sector": "finance",
+   "data sensitivity": 5,
+   "source name": "Housing Wire",
+   "1st source link": "https://www.housingwire.com/articles/36597-guaranteed-rate-ordered-to-pay-25m-to-mount-olympus-mortgage-for-data-theft/"
+ },
+ {
+   "organisation": "Apollo",
+   "records lost": "200,000,000",
+   "year": 2018,
+   "date": " May 2018",
+   "sector": "tech",
+   "data sensitivity": 1,
+   "source name": "Wired",
+   "1st source link": "https://www.wired.com/story/apollo-breach-linkedin-salesforce-data/"
+ },
+ {
+   "organisation": "Disqus",
+   "records lost": "17,500,000",
+   "year": 2017,
+   "date": " Dec 2017",
+   "sector": "web",
+   "data sensitivity": 4,
+   "source name": "ZD Net",
+   "1st source link": "http://www.zdnet.com/article/disqus-confirms-comments-tool-hacked/"
+ },
+ {
+   "organisation": "RootsWeb",
+   "records lost": "300,000",
+   "year": 2017,
+   "date": " Dec 2017",
+   "sector": "web",
+   "data sensitivity": 4,
+   "source name": "Threat Post",
+   "1st source link": "https://threatpost.com/leaky-rootsweb-server-exposes-some-ancestry-com-user-data/129248/"
+ },
+ {
+   "organisation": "Yahoo",
+   "records lost": "32,000,000",
+   "year": 2017,
+   "date": " Mar 2017",
+   "sector": "web",
+   "data sensitivity": 4,
+   "source name": "CNet",
+   "1st source link": "https://www.cnet.com/news/yahoo-says-forged-cookie-attack-accessed-about-32m-accounts/"
+ },
+ {
+   "organisation": "Uber",
+   "records lost": "57,000,000",
+   "year": 2017,
+   "date": " Nov 2017",
+   "sector": "app",
+   "data sensitivity": 1,
+   "source name": "Bloomberg",
+   "1st source link": "https://www.bloomberg.com/news/articles/2017-11-21/uber-concealed-cyberattack-that-exposed-57-million-people-s-data"
+ },
+ {
+   "organisation": "Wonga",
+   "records lost": "270,000",
+   "year": 2017,
+   "date": " Apr 2017",
+   "sector": "finance",
+   "data sensitivity": 4,
+   "source name": "The Guardian",
+   "1st source link": "https://www.theguardian.com/business/2017/apr/09/wonga-data-breach-could-affect-250000-uk-customers?CMP=Share_iOSApp_Other"
+ },
+ {
+   "organisation": "Snapchat",
+   "records lost": "1,700,000",
+   "year": 2017,
+   "date": " Apr 2017",
+   "sector": "app",
+   "data sensitivity": 1,
+   "source name": "BGR",
+   "1st source link": "http://www.bgr.in/news/indian-hacker-group-leaks-data-of-1-7-million-snapchat-users-after-ceos-poor-country-comments-report/"
+ },
+ {
+   "organisation": "Spambot",
+   "records lost": "520,000,000",
+   "year": 2017,
+   "date": " Aug 2017",
+   "sector": "web",
+   "data sensitivity": 4,
+   "source name": "The Guardian",
+   "1st source link": "https://www.theguardian.com/technology/2017/aug/30/spambot-leaks-700m-email-addresses-huge-data-breach-passwords"
+ },
+ {
+   "organisation": "CEX",
+   "records lost": "2,000,000",
+   "year": 2017,
+   "date": " Aug 2017",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "PC Mag",
+   "1st source link": "https://uk.pcmag.com/cex/90937/cex-hack-up-to-2m-customers-potentially-affected"
+ },
+ {
+   "organisation": "Al.type",
+   "records lost": "31,000,000",
+   "year": 2017,
+   "date": " Dec 2017",
+   "sector": "app",
+   "data sensitivity": 4,
+   "source name": "ZDNet",
+   "1st source link": "http://www.zdnet.com/article/popular-virtual-keyboard-leaks-31-million-user-data/"
+ },
+ {
+   "organisation": "Cellebrite",
+   "records lost": "3,000,000",
+   "year": 2017,
+   "date": " Jan 2017",
+   "sector": "tech",
+   "data sensitivity": 2,
+   "source name": "Vice",
+   "1st source link": "https://www.vice.com/en_us/article/3daywj/hacker-steals-900-gb-of-cellebrite-data"
+ },
+ {
+   "organisation": "Waterly",
+   "records lost": "1,000,000",
+   "year": 2017,
+   "date": " Jan 2017",
+   "sector": "app",
+   "data sensitivity": 3,
+   "source name": "Data Breaches",
+   "1st source link": "https://www.databreaches.net/waterly-app-potentially-exposed-up-to-1-million-israelis-details-researcher/"
+ },
+ {
+   "organisation": "Swedish Transport Agency",
+   "records lost": "3,000,000",
+   "year": 2017,
+   "date": " Jul 2017",
+   "sector": "government",
+   "data sensitivity": 5,
+   "source name": "The Local",
+   "1st source link": "https://www.thelocal.se/20170717/swedish-authority-handed-over-keys-to-the-kingdom-in-it-security-slip-up"
+ },
+ {
+   "organisation": "Hong Kong Registration & Electoral Office",
+   "records lost": "3,700,000",
+   "year": 2017,
+   "date": " Mar 2017",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "SCMP",
+   "1st source link": "http://www.scmp.com/news/hong-kong/politics/article/2082566/laptops-containing-37-million-hong-kong-voters-data-stolen"
+ },
+ {
+   "organisation": "River City Media",
+   "records lost": "340,000,000",
+   "year": 2017,
+   "date": " Mar 2017",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "Guardian",
+   "1st source link": "https://www.theguardian.com/technology/2017/mar/06/email-addresses-spam-leak-river-city-media"
+ },
+ {
+   "organisation": "DaFont",
+   "records lost": "700,000",
+   "year": 2017,
+   "date": " May 2017",
+   "sector": "web",
+   "data sensitivity": 4,
+   "source name": "ZD Net",
+   "1st source link": "http://www.zdnet.com/article/font-sharing-site-dafont-hacked-thousands-of-accounts-stolen/"
+ },
+ {
+   "organisation": "Bell",
+   "records lost": "1,900,000",
+   "year": 2017,
+   "date": " May 2017",
+   "sector": "telecoms",
+   "data sensitivity": 1,
+   "source name": "CBC",
+   "1st source link": "http://www.cbc.ca/beta/news/technology/bell-data-breach-customer-names-phone-numbers-emails-leak-1.4116608"
+ },
+ {
+   "organisation": "Zomato",
+   "records lost": "17,000,000",
+   "year": 2017,
+   "date": " May 2017",
+   "sector": "web",
+   "data sensitivity": 4,
+   "source name": "HackRead",
+   "1st source link": "https://www.hackread.com/zomato-hacked-17-million-accounts-sold-on-dark-web/"
+ },
+ {
+   "organisation": "Imgur",
+   "records lost": "1,700,000",
+   "year": 2017,
+   "date": " May 2017",
+   "sector": "app",
+   "data sensitivity": 4,
+   "source name": "Imgur",
+   "1st source link": "https://blog.imgur.com/2017/11/24/notice-of-data-breach/"
+ },
+ {
+   "organisation": "TIO Networks",
+   "records lost": "1,600,000",
+   "year": 2017,
+   "date": " Dec 2017",
+   "sector": "finance",
+   "data sensitivity": 4,
+   "source name": "Bleeping Computer",
+   "1st source link": "https://www.bleepingcomputer.com/news/security/paypal-says-1-6-million-customer-details-stolen-in-breach-at-canadian-subsidiary/"
+ },
+ {
+   "organisation": "Malaysian telcos & MVNOs",
+   "records lost": "46,200,000",
+   "year": 2017,
+   "date": " Oct 2017",
+   "sector": "telecoms",
+   "data sensitivity": 4,
+   "source name": "LowYat",
+   "1st source link": "https://www.lowyat.net/2017/146339/46-2-million-mobile-phone-numbers-leaked-from-2014-data-breach/"
+ },
+ {
+   "organisation": "Malaysian medical practitioners",
+   "records lost": "81,309",
+   "year": 2017,
+   "date": " Oct 2017",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Silicon",
+   "1st source link": "https://www.silicon.co.uk/cloud/data-breach-mobile-numbers-malaysia-224079"
+ },
+ {
+   "organisation": "Instagram",
+   "records lost": "6,000,000",
+   "year": 2017,
+   "date": " Sep 2017",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "The Verge",
+   "1st source link": "https://www.theverge.com/2017/9/1/16244304/instagram-hack-api-bug-doxagram-selena-gomez"
+ },
+ {
+   "organisation": "Viacom",
+   "records lost": "3,000,000",
+   "year": 2017,
+   "date": " Sep 2017",
+   "sector": "web",
+   "data sensitivity": 4,
+   "source name": "The Hacker News",
+   "1st source link": "https://thehackernews.com/2017/09/viacom-amazon-server.html"
+ },
+ {
+   "organisation": "Equifax",
+   "records lost": "143,000,000",
+   "year": 2017,
+   "date": " Sep 2017",
+   "sector": "finance",
+   "data sensitivity": 4,
+   "source name": "UK Gov",
+   "1st source link": "https://www.consumer.ftc.gov/blog/2017/09/equifax-data-breach-what-do"
+ },
+ {
+   "organisation": "SVR Tracking",
+   "records lost": "540,000",
+   "year": 2017,
+   "date": " Sep 2017",
+   "sector": "app",
+   "data sensitivity": 4,
+   "source name": "The Hacker News",
+   "1st source link": "https://thehackernews.com/2017/09/hacker-track-car.html"
+ },
+ {
+   "organisation": "LinkedIn",
+   "records lost": "117,000,000",
+   "year": 2016,
+   "date": " May 2016",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "CNN",
+   "1st source link": "http://money.cnn.com/2016/05/19/technology/linkedin-hack/"
+ },
+ {
+   "organisation": "Tumblr",
+   "records lost": "65,000,000",
+   "year": 2016,
+   "date": " May 2016",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Vice",
+   "1st source link": "https://www.vice.com/en_us/article/8q88k5/hackers-stole-68-million-passwords-from-tumblr-new-analysis-reveals"
+ },
+ {
+   "organisation": "Yahoo",
+   "records lost": "500,000,000",
+   "year": 2016,
+   "date": " Sep 2016",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "CNBC",
+   "1st source link": "https://www.cnbc.com/2016/09/22/yahoo-data-breach-is-among-the-biggest-in-history.html"
+ },
+ {
+   "organisation": "Mossack Fonseca",
+   "records lost": "11,500,000",
+   "year": 2016,
+   "date": " Apr 2016",
+   "sector": "misc",
+   "data sensitivity": 5,
+   "source name": "PanamaPapers",
+   "1st source link": "http://panamapapers.sueddeutsche.de/articles/56febff0a1bb8d3c3495adf4/"
+ },
+ {
+   "organisation": "Philippines’ Commission on Elections",
+   "records lost": "55,000,000",
+   "year": 2016,
+   "date": " Apr 2016",
+   "sector": "government",
+   "data sensitivity": 5,
+   "source name": "Trend Micro",
+   "1st source link": "http://blog.trendmicro.com/trendlabs-security-intelligence/55m-registered-voters-risk-philippine-commission-elections-hacked/"
+ },
+ {
+   "organisation": "Syrian government",
+   "records lost": "274,477",
+   "year": 2016,
+   "date": " Apr 2016",
+   "sector": "government",
+   "data sensitivity": 1,
+   "source name": "Softpedia",
+   "1st source link": "http://news.softpedia.com/news/syrian-government-hacked-43-gb-of-data-spilled-online-by-hacktivists-502765.shtml"
+ },
+ {
+   "organisation": "Minecraft",
+   "records lost": "7,000,000",
+   "year": 2016,
+   "date": " Apr 2016",
+   "sector": "gaming",
+   "data sensitivity": 1,
+   "source name": "BBC",
+   "1st source link": "https://www.bbc.co.uk/news/technology-36168860"
+ },
+ {
+   "organisation": "Turkish citizenship database",
+   "records lost": "49,611,709",
+   "year": 2016,
+   "date": " Apr 2016",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Business Insider",
+   "1st source link": "http://www.businessinsider.com/turkish-citizenship-database-allegedly-hacked-and-leaked-2016-4?r=UK&IR=T"
+ },
+ {
+   "organisation": "Banner Health",
+   "records lost": "3,700,000",
+   "year": 2016,
+   "date": " Aug 2016",
+   "sector": "health ",
+   "data sensitivity": 3,
+   "source name": "Healthcare Informatics",
+   "1st source link": "https://www.healthcare-informatics.com/news-item/cybersecurity/breaking-massive-cyber-attack-banner-health-affects-37m-individuals"
+ },
+ {
+   "organisation": "Mail. ru",
+   "records lost": "25,000,000",
+   "year": 2016,
+   "date": " Aug 2016",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "ZD Net",
+   "1st source link": "http://www.zdnet.com/article/over-25-million-accounts-stolen-after-mail-ru-forums-raided-by-hackers/"
+ },
+ {
+   "organisation": "PayAsUGym",
+   "records lost": "300,000",
+   "year": 2016,
+   "date": " Dec 2016",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "BBC News",
+   "1st source link": "http://www.bbc.co.uk/news/technology-38350987"
+ },
+ {
+   "organisation": "Lynda.com",
+   "records lost": "9,500,000",
+   "year": 2016,
+   "date": " Dec 2016",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Neowin",
+   "1st source link": "https://www.neowin.net/news/microsoft-owned-linkedin-is-sending-emails-to-users-about-a-lyndacom-data-breach"
+ },
+ {
+   "organisation": "Linux Ubuntu forums",
+   "records lost": "2,000,000",
+   "year": 2016,
+   "date": " Jul 2016",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "ZDnet",
+   "1st source link": "https://www.zdnet.com/article/ubuntu-forums-hack-exposes-two-million-users/"
+ },
+ {
+   "organisation": "Wendy's",
+   "records lost": "1,025",
+   "year": 2016,
+   "date": " Jul 2016",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "Forbes",
+   "1st source link": "https://www.forbes.com/sites/moneybuilder/2016/07/08/this-week-in-credit-card-news-wendys-data-breach-affects-1000-stores-card-fraud-dropping/#260a2f727bab"
+ },
+ {
+   "organisation": "Clinton campaign",
+   "records lost": "5,000,000",
+   "year": 2016,
+   "date": " Jul 2016",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Reuters",
+   "1st source link": "http://news.trust.org/item/20160729204542-r98dj"
+ },
+ {
+   "organisation": "uTorrent ",
+   "records lost": "35,000",
+   "year": 2016,
+   "date": " Jun 2016",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Torrent Freak",
+   "1st source link": "https://torrentfreak.com/utorrent-forums-hacked-passwords-compromised-160608/"
+ },
+ {
+   "organisation": "World Check",
+   "records lost": "2,200,000",
+   "year": 2016,
+   "date": " Jun 2016",
+   "sector": "misc",
+   "data sensitivity": 3,
+   "source name": "The Stack",
+   "1st source link": "https://thestack.com/security/2016/06/29/2-million-person-terror-database-leaked-online/"
+ },
+ {
+   "organisation": "Mutuelle Generale de la Police",
+   "records lost": "112,000",
+   "year": 2016,
+   "date": " Jun 2016",
+   "sector": "health ",
+   "data sensitivity": 5,
+   "source name": "BBC News",
+   "1st source link": "http://www.bbc.co.uk/news/world-europe-36645519"
+ },
+ {
+   "organisation": "VK",
+   "records lost": "171,000,000",
+   "year": 2016,
+   "date": " Jun 2016",
+   "sector": "web",
+   "data sensitivity": 4,
+   "source name": "Motherboard",
+   "1st source link": "http://motherboard.vice.com/read/another-day-another-hack-100-million-accounts-for-vk-russias-facebook"
+ },
+ {
+   "organisation": "KM.ru & Nival",
+   "records lost": "1,500,000",
+   "year": 2016,
+   "date": " Mar 2016",
+   "sector": "web",
+   "data sensitivity": 4,
+   "source name": "Motherboard",
+   "1st source link": "https://motherboard.vice.com/en_us/article/pgkp57/a-teen-hacker-is-targeting-russian-sites-as-revenge-for-the-mh17-crash"
+ },
+ {
+   "organisation": "Fling",
+   "records lost": "40,000,000",
+   "year": 2016,
+   "date": " May 2016",
+   "sector": "web",
+   "data sensitivity": 4,
+   "source name": "IBTimes",
+   "1st source link": "https://www.ibtimes.co.uk/fling-com-breach-passwords-sexual-preferences-40-million-users-sale-dark-web-1558711"
+ },
+ {
+   "organisation": "MySpace",
+   "records lost": "164,000,000",
+   "year": 2016,
+   "date": " May 2016",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Vice",
+   "1st source link": "https://www.vice.com/en_us/article/pgkk8v/427-million-myspace-passwords-emails-data-breach"
+ },
+ {
+   "organisation": "Three",
+   "records lost": "130,000",
+   "year": 2016,
+   "date": " Nov 2016",
+   "sector": "telecoms",
+   "data sensitivity": 2,
+   "source name": "Three",
+   "1st source link": "http://www.threemediacentre.co.uk/news/2017/handsetfraud-update.aspx"
+ },
+ {
+   "organisation": "Red Cross Blood Service",
+   "records lost": "550,000",
+   "year": 2016,
+   "date": " Oct 2016",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "ABC News",
+   "1st source link": "http://www.abc.net.au/news/2016-10-28/red-cross-blood-service-admits-to-data-breach/7974036"
+ },
+ {
+   "organisation": "Telegram ",
+   "records lost": "15,000,000",
+   "year": 2016,
+   "date": " Aug 2016",
+   "sector": "app",
+   "data sensitivity": 1,
+   "source name": "Venture Beat",
+   "1st source link": "http://venturebeat.com/2016/08/02/hackers-break-into-telegram-revealing-15-million-users-phone-numbers/"
+ },
+ {
+   "organisation": "Dailymotion",
+   "records lost": "85,200,000",
+   "year": 2016,
+   "date": " Dec 2016",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "ZDNet",
+   "1st source link": "http://www.zdnet.com/article/dailymotion-hack-exposes-millions-of-accounts/"
+ },
+ {
+   "organisation": "Weebly",
+   "records lost": "43,000,000",
+   "year": 2016,
+   "date": " Oct 2016",
+   "sector": "web",
+   "data sensitivity": 4,
+   "source name": "Tech Crunch",
+   "1st source link": "https://techcrunch.com/2016/10/20/weebly-hacked-43-million-credentials-stolen/"
+ },
+ {
+   "organisation": "Interpark",
+   "records lost": "10,000,000",
+   "year": 2016,
+   "date": " Jul 2016",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "NY times",
+   "1st source link": "http://www.nytimes.com/2016/07/29/world/asia/north-korea-hacking-interpark.html"
+ },
+ {
+   "organisation": "Quest Diagnostics",
+   "records lost": "34,000",
+   "year": 2016,
+   "date": " Dec 2016",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Newsroom",
+   "1st source link": "http://newsroom.questdiagnostics.com/2016-12-12-Quest-Diagnostics-Provides-Notice-of-Data-Security-Incident#assets_129"
+ },
+ {
+   "organisation": "Friend Finder Network",
+   "records lost": "412,000,000",
+   "year": 2016,
+   "date": " Nov 2016",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "ZDNet",
+   "1st source link": "http://www.zdnet.com/article/adultfriendfinder-network-hack-exposes-secrets-of-412-million-users/"
+ },
+ {
+   "organisation": "Brazzers",
+   "records lost": "790,724",
+   "year": 2016,
+   "date": " Sep 2016",
+   "sector": "web",
+   "data sensitivity": 4,
+   "source name": "Vice",
+   "1st source link": "https://www.vice.com/en_us/article/vv7pgd/nearly-800000-brazzers-porn-site-accounts-exposed-in-forum-hack"
+ },
+ {
+   "organisation": "ClixSense",
+   "records lost": "6,600,000",
+   "year": 2016,
+   "date": " Sep 2016",
+   "sector": "web",
+   "data sensitivity": 5,
+   "source name": "Digital trends",
+   "1st source link": "http://www.digitaltrends.com/computing/clixsense-hacked/"
+ },
+ {
+   "organisation": "Carefirst",
+   "records lost": "1,100,000",
+   "year": 2015,
+   "date": " May 2015",
+   "sector": "health ",
+   "data sensitivity": 1,
+   "source name": "Krebs on Security",
+   "1st source link": "https://krebsonsecurity.com/2015/05/carefirst-blue-cross-breach-hits-1-1m/"
+ },
+ {
+   "organisation": "Twitch",
+   "records lost": "10,000,000",
+   "year": 2015,
+   "date": " Mar 2015",
+   "sector": "health ",
+   "data sensitivity": 1,
+   "source name": "Twitch",
+   "1st source link": "http://blog.twitch.tv/2015/03/important-notice-about-your-twitch-account/"
+ },
+ {
+   "organisation": "Premera",
+   "records lost": "11,000,000",
+   "year": 2015,
+   "date": " Mar 2015",
+   "sector": "health ",
+   "data sensitivity": 5,
+   "source name": "Computer Weekly",
+   "1st source link": "https://www.computerweekly.com/news/2240242508/Premera-hack-exposes-11-million-financial-and-medical-records"
+ },
+ {
+   "organisation": "Uber",
+   "records lost": "50,000",
+   "year": 2015,
+   "date": " Feb 2015",
+   "sector": "tech, app",
+   "data sensitivity": 1,
+   "source name": "TechCrunch",
+   "1st source link": "https://techcrunch.com/2015/02/27/uber-database-breach-exposed-information-of-50000-drivers-company-confirms/"
+ },
+ {
+   "organisation": "Deep Root Analytics",
+   "records lost": "198,000,000",
+   "year": 2015,
+   "date": " Dec 2015",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "Reuters, UpGuard",
+   "1st source link": "http://uk.reuters.com/article/us-usa-voters-breach-idUKKBN0UB1E020151229"
+ },
+ {
+   "organisation": "Kromtech",
+   "records lost": "13,000,000",
+   "year": 2015,
+   "date": " Dec 2015",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "BBC",
+   "1st source link": "https://www.bbc.co.uk/news/technology-35100330"
+ },
+ {
+   "organisation": "Invest Bank",
+   "records lost": "40,000",
+   "year": 2015,
+   "date": " Dec 2015",
+   "sector": "finance",
+   "data sensitivity": 4,
+   "source name": "Daily Dot ",
+   "1st source link": "https://www.dailydot.com/debug/invest-bank-hacker-buba/"
+ },
+ {
+   "organisation": "Sanrio",
+   "records lost": "3,300,000",
+   "year": 2015,
+   "date": " Dec 2015",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "CSO Online",
+   "1st source link": "https://www.csoonline.com/article/3017171/database-leak-exposes-3-3-million-hello-kitty-fans.html"
+ },
+ {
+   "organisation": "VTech",
+   "records lost": "6,400,000",
+   "year": 2015,
+   "date": " Dec 2015",
+   "sector": "web",
+   "data sensitivity": 5,
+   "source name": "The Guardian",
+   "1st source link": "http://www.theguardian.com/technology/2015/dec/02/vtech-hack-us-hong-kong-investigate-children-exposed"
+ },
+ {
+   "organisation": "Hacking Team",
+   "records lost": "500,000",
+   "year": 2015,
+   "date": " Jul 2015",
+   "sector": "web",
+   "data sensitivity": 5,
+   "source name": "The Guardian",
+   "1st source link": "http://www.theguardian.com/technology/2015/jul/06/hacking-team-hacked-firm-sold-spying-tools-to-repressive-regimes-documents-claim"
+ },
+ {
+   "organisation": "AshleyMadison.com",
+   "records lost": "37,000,000",
+   "year": 2015,
+   "date": " Jul 2015",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Krebs on Security",
+   "1st source link": "http://krebsonsecurity.com/2015/07/online-cheating-site-ashleymadison-hacked/"
+ },
+ {
+   "organisation": "US Office of Personnel Management (2nd Breach)",
+   "records lost": "21,500,000",
+   "year": 2015,
+   "date": " Jul 2015",
+   "sector": "government",
+   "data sensitivity": 5,
+   "source name": "BBC News",
+   "1st source link": "http://www.bbc.co.uk/news/world-us-canada-33120405"
+ },
+ {
+   "organisation": "US Office of Personnel Management",
+   "records lost": "4,000,000",
+   "year": 2015,
+   "date": " Jun 2015",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Washington Post",
+   "1st source link": "http://www.washingtonpost.com/world/national-security/chinese-hackers-breach-federal-governments-personnel-office/2015/06/04/889c0e52-0af7-11e5-95fd-d580f1c5d44e_story.html?tid=hpModule_04941f10-8a79-11e2-98d9-3012c1cd8d1e"
+ },
+ {
+   "organisation": "Australian Immigration Department",
+   "records lost": "30",
+   "year": 2015,
+   "date": " Mar 2015",
+   "sector": "government",
+   "data sensitivity": 4,
+   "source name": "The Guardian",
+   "1st source link": "http://www.theguardian.com/world/2015/mar/30/personal-details-of-world-leaders-accidentally-revealed-by-g20-organisers"
+ },
+ {
+   "organisation": "IRS",
+   "records lost": "100,000",
+   "year": 2015,
+   "date": " May 2015",
+   "sector": "government",
+   "data sensitivity": 1,
+   "source name": "CNN",
+   "1st source link": "http://money.cnn.com/2015/05/26/pf/taxes/irs-website-data-hack/index.html"
+ },
+ {
+   "organisation": "MSpy",
+   "records lost": "400,000",
+   "year": 2015,
+   "date": " May 2015",
+   "sector": "app",
+   "data sensitivity": 2,
+   "source name": "Krebs on Security",
+   "1st source link": "http://krebsonsecurity.com/2015/05/mobile-spy-software-maker-mspy-hacked-customer-data-leaked/"
+ },
+ {
+   "organisation": "Adult Friend Finder",
+   "records lost": "3,900,000",
+   "year": 2015,
+   "date": " May 2015",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Channel 4",
+   "1st source link": "http://www.channel4.com/news/adult-friendfinder-dating-hack-internet-dark-web"
+ },
+ {
+   "organisation": "Securus Technologies",
+   "records lost": "70,000,000",
+   "year": 2015,
+   "date": " Nov 2015",
+   "sector": "web",
+   "data sensitivity": 5,
+   "source name": "The Intercept",
+   "1st source link": "https://theintercept.com/2015/11/11/securus-hack-prison-phone-company-exposes-thousands-of-calls-lawyers-and-clients/"
+ },
+ {
+   "organisation": "TalkTalk",
+   "records lost": "157,000",
+   "year": 2015,
+   "date": " Nov 2015",
+   "sector": "telecoms",
+   "data sensitivity": 2,
+   "source name": "BBC News",
+   "1st source link": "https://www.bbc.co.uk/news/business-34743185"
+ },
+ {
+   "organisation": "Experian / T-mobile",
+   "records lost": "15,000,000",
+   "year": 2015,
+   "date": " Oct 2015",
+   "sector": "telecoms",
+   "data sensitivity": 3,
+   "source name": "Reuters",
+   "1st source link": "http://www.reuters.com/article/2015/10/02/us-tmobile-dataprotection-idUSKCN0RV5PL20151002"
+ },
+ {
+   "organisation": "Slack",
+   "records lost": "500,000",
+   "year": 2015,
+   "date": " Mar 2015",
+   "sector": "app",
+   "data sensitivity": 1,
+   "source name": "Tech Crunch",
+   "1st source link": "http://techcrunch.com/2015/03/27/slack-got-hacked/"
+ },
+ {
+   "organisation": "CarPhone Warehouse",
+   "records lost": "2,400,000",
+   "year": 2015,
+   "date": " Aug 2015",
+   "sector": "telecoms",
+   "data sensitivity": 5,
+   "source name": "The Guardian",
+   "1st source link": "http://www.theguardian.com/technology/2015/aug/10/carphone-warehouse-uk-data-watchdog-investigating-customer-hack"
+ },
+ {
+   "organisation": "British Airways",
+   "records lost": "10,000",
+   "year": 2015,
+   "date": " Mar 2015",
+   "sector": "transport",
+   "data sensitivity": 1,
+   "source name": "The Guardian",
+   "1st source link": "http://www.theguardian.com/business/2015/mar/29/british-airways-frequent-flyer-accounts-hacked"
+ },
+ {
+   "organisation": "Anthem ",
+   "records lost": "80,000,000",
+   "year": 2015,
+   "date": " Feb 2015",
+   "sector": "health ",
+   "data sensitivity": 2,
+   "source name": "NYTimes",
+   "1st source link": "https://www.nytimes.com/2015/02/05/business/hackers-breached-data-of-millions-insurer-says.html"
+ },
+ {
+   "organisation": "UCLA Health",
+   "records lost": "4,500,000",
+   "year": 2015,
+   "date": " May 2015",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Health IT Security",
+   "1st source link": "https://healthitsecurity.com/news/ucla-health-reaches-7.5m-settlement-over-2015-breach-of-4.5m"
+ },
+ {
+   "organisation": "Neiman Marcus",
+   "records lost": "1,100,000",
+   "year": 2014,
+   "date": " Jan 2014",
+   "sector": "retail",
+   "data sensitivity": 2,
+   "source name": "NY Times",
+   "1st source link": "http://www.nytimes.com/2014/01/24/business/neiman-marcus-breach-affected-1-1-million-cards.html"
+ },
+ {
+   "organisation": "AOL",
+   "records lost": "2,400,000",
+   "year": 2014,
+   "date": " Apr 2014",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "NBC News",
+   "1st source link": "https://www.nbcnews.com/tech/security/youve-got-hacked-aol-confirms-significant-number-mail-users-hit-n91701"
+ },
+ {
+   "organisation": "Community Health Systems",
+   "records lost": "4,500,000",
+   "year": 2014,
+   "date": " Aug 2014",
+   "sector": "health ",
+   "data sensitivity": 2,
+   "source name": "CNN",
+   "1st source link": "http://money.cnn.com/2014/08/18/technology/security/hospital-chs-hack/"
+ },
+ {
+   "organisation": "Privatization Agency of the Republic of Serbia",
+   "records lost": "5,190,396",
+   "year": 2014,
+   "date": " Dec 2014",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Poverenik",
+   "1st source link": "https://www.poverenik.rs/en/press-releases/1953-povreda-prava-na-zastitu-podataka-o-licnosti-skoro-svih-punoletnih-gradjana-srbije.html"
+ },
+ {
+   "organisation": "Sony Pictures",
+   "records lost": "10,000,000",
+   "year": 2014,
+   "date": " Dec 2014",
+   "sector": "misc",
+   "data sensitivity": 2,
+   "source name": "Buzzfeed",
+   "1st source link": "http://www.buzzfeed.com/tomgara/sony-hack"
+ },
+ {
+   "organisation": "Indiana University",
+   "records lost": "146,000",
+   "year": 2014,
+   "date": " Feb 2014",
+   "sector": "academic",
+   "data sensitivity": 2,
+   "source name": "Indiana University",
+   "1st source link": "http://news.iu.edu/releases/iu/2014/02/data-exposure-disclosure.shtml"
+ },
+ {
+   "organisation": "Ebay",
+   "records lost": "145,000,000",
+   "year": 2014,
+   "date": " May 2014",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Business Insider",
+   "1st source link": "https://www.businessinsider.com/cyber-thieves-took-data-on-145-million-ebay-customers-by-hacking-3-corporate-employees-2014-5?r=US&IR=T"
+ },
+ {
+   "organisation": "UPS",
+   "records lost": "4,000,000",
+   "year": 2014,
+   "date": " Aug 2014",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "Time",
+   "1st source link": "http://time.com/3151681/ups-hack/"
+ },
+ {
+   "organisation": "European Central Bank",
+   "records lost": "4,000,000",
+   "year": 2014,
+   "date": " Jul 2014",
+   "sector": "finance",
+   "data sensitivity": 1,
+   "source name": "City am",
+   "1st source link": "http://www.cityam.com/1406190300/ecb-website-hacked"
+ },
+ {
+   "organisation": "JP Morgan Chase",
+   "records lost": "76,000,000",
+   "year": 2014,
+   "date": " Oct 2014",
+   "sector": "finance",
+   "data sensitivity": 3,
+   "source name": "Deal Book",
+   "1st source link": "http://dealbook.nytimes.com/2014/10/02/jpmorgan-discovers-further-cyber-security-issues/?_php=true&_type=blogs&_r=0"
+ },
+ {
+   "organisation": "New York Taxis",
+   "records lost": "52,000",
+   "year": 2014,
+   "date": " Jun 2014",
+   "sector": "transport",
+   "data sensitivity": 1,
+   "source name": "Medium",
+   "1st source link": "https://medium.com/@vijayp/f6bc289679a1"
+ },
+ {
+   "organisation": "HSBC Turkey",
+   "records lost": "2,700,000",
+   "year": 2014,
+   "date": " Nov 2014",
+   "sector": "finance",
+   "data sensitivity": 4,
+   "source name": "Reuters",
+   "1st source link": "http://www.reuters.com/article/us-hsbc-turkey-cybersecurity/hsbc-turkey-says-customer-credit-card-data-stolen-idUSKCN0IW1RR20141112"
+ },
+ {
+   "organisation": "Japan Airlines",
+   "records lost": "750,000",
+   "year": 2014,
+   "date": " Sep 2014",
+   "sector": "transport",
+   "data sensitivity": 2,
+   "source name": "WSJ, Japan Airlines",
+   "1st source link": "http://online.wsj.com/articles/japan-airlines-reports-hacker-attack-1412053828"
+ },
+ {
+   "organisation": "Staples",
+   "records lost": "1,160,000",
+   "year": 2014,
+   "date": " Dec 2014",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "Fortune",
+   "1st source link": "http://fortune.com/2014/12/19/staples-cards-affected-breach/"
+ },
+ {
+   "organisation": "GMail",
+   "records lost": "5,000,000",
+   "year": 2014,
+   "date": " Sep 2014",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "The Next Web",
+   "1st source link": "http://thenextweb.com/google/2014/09/10/4-93-million-gmail-usernames-passwords-published-google-says-evidence-systems-compromised/"
+ },
+ {
+   "organisation": "Home Depot",
+   "records lost": "56,000,000",
+   "year": 2014,
+   "date": " Sep 2014",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "Krebs on Security",
+   "1st source link": "http://krebsonsecurity.com/2014/09/banks-credit-card-breach-at-home-depot/"
+ },
+ {
+   "organisation": "Korea Credit Bureau",
+   "records lost": "20,000,000",
+   "year": 2014,
+   "date": " Jan 2014",
+   "sector": "finance",
+   "data sensitivity": 5,
+   "source name": "Security Week",
+   "1st source link": "http://www.securityweek.com/20-million-people-fall-victim-south-korea-data-leak"
+ },
+ {
+   "organisation": "Dominios Pizzas (France)",
+   "records lost": "600,000",
+   "year": 2014,
+   "date": " Jun 2014",
+   "sector": "retail",
+   "data sensitivity": 1,
+   "source name": "The Guardian",
+   "1st source link": "http://www.theguardian.com/technology/2014/jun/16/dominos-pizza-ransom-hack-data"
+ },
+ {
+   "organisation": "Mozilla",
+   "records lost": "76,000",
+   "year": 2014,
+   "date": " Aug 2014",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "The Guardian",
+   "1st source link": "http://www.theguardian.com/technology/2014/aug/05/mozilla-leak-developer-email-addresses-passwords-firefox"
+ },
+ {
+   "organisation": "Massive American business hack",
+   "records lost": "160,000,000",
+   "year": 2013,
+   "date": " Jul 2013",
+   "sector": "finance",
+   "data sensitivity": 5,
+   "source name": "Technology Review",
+   "1st source link": "https://www.technologyreview.com/s/517551/prosecutors-describe-massive-breach-of-credit-card-data/"
+ },
+ {
+   "organisation": "Affinity Health Plan, Inc.",
+   "records lost": "344,579",
+   "year": 2013,
+   "date": " Aug 2013",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Proskauer",
+   "1st source link": "https://privacylaw.proskauer.com/2013/08/articles/identity-theft/a-1-2-million-photocopier-mistake-health-plan-settles-with-hhs-in-hipaa-breach-case/"
+ },
+ {
+   "organisation": "Citigroup",
+   "records lost": "150,000",
+   "year": 2013,
+   "date": " Jul 2013",
+   "sector": "finance",
+   "data sensitivity": 2,
+   "source name": "Softpedia",
+   "1st source link": "http://news.softpedia.com/news/Citi-Exposes-Details-of-150-000-Individuals-Who-Went-into-Bankruptcy-369979.shtml"
+ },
+ {
+   "organisation": "Tianya",
+   "records lost": "40,000,000",
+   "year": 2013,
+   "date": " Jul 2013",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Computer World, Hacker News",
+   "1st source link": "http://www.scmagazine.com.au/News/349585,28-million-clear-text-passwords-found-after-tianya65279-hack.aspx"
+ },
+ {
+   "organisation": "Scribd",
+   "records lost": "500,000",
+   "year": 2013,
+   "date": " Apr 2013",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Naked Security, NBC News",
+   "1st source link": "http://nakedsecurity.sophos.com/2013/04/05/scribd-worlds-largest-online-library-admits-to-network-intrusion-password-breach/"
+ },
+ {
+   "organisation": "Living Social",
+   "records lost": "50,000,000",
+   "year": 2013,
+   "date": " Apr 2013",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Naked Security, New York Times",
+   "1st source link": "http://nakedsecurity.sophos.com/2013/04/27/livingsocial-hacked-50-million-affected/"
+ },
+ {
+   "organisation": "Yahoo",
+   "records lost": "550,000,000",
+   "year": 2013,
+   "date": " Dec 2016",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "NY Times, BBC",
+   "1st source link": "http://www.nytimes.com/2016/12/14/technology/yahoo-hack.html?action=Click&contentCollection=BreakingNews&contentID=64651831&pgtype=Homepage&_r=0"
+ },
+ {
+   "organisation": "SnapChat",
+   "records lost": "4,600,000",
+   "year": 2013,
+   "date": " Jan 2014",
+   "sector": "web, tech",
+   "data sensitivity": 2,
+   "source name": "BBC News",
+   "1st source link": "https://www.bbc.co.uk/news/technology-25572661"
+ },
+ {
+   "organisation": "University of Delaware",
+   "records lost": "74,000",
+   "year": 2013,
+   "date": " Aug 2013",
+   "sector": "academic",
+   "data sensitivity": 2,
+   "source name": "University of Delaware",
+   "1st source link": "http://www1.udel.edu/udaily/2014/jul/resources073013.html"
+ },
+ {
+   "organisation": "Central Hudson Gas & Electric",
+   "records lost": "110,000",
+   "year": 2013,
+   "date": " Feb 2013",
+   "sector": "misc",
+   "data sensitivity": 3,
+   "source name": "eSecurity Planet",
+   "1st source link": "https://www.esecurityplanet.com/network-security/central-hudson-gas-and-electric-hacked.html"
+ },
+ {
+   "organisation": "Twitter",
+   "records lost": "250,000",
+   "year": 2013,
+   "date": " Feb 2013",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "CNN",
+   "1st source link": "https://edition.cnn.com/2013/02/01/tech/social-media/twitter-hacked/index.html"
+ },
+ {
+   "organisation": "Crescent Health Inc., Walgreens",
+   "records lost": "100,000",
+   "year": 2013,
+   "date": " Feb 2013",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Healthcare IT News",
+   "1st source link": "https://www.healthcareitnews.com/news/walgreens-company-announces-data-breach"
+ },
+ {
+   "organisation": "Florida Department of Juvenile Justice",
+   "records lost": "100,000",
+   "year": 2013,
+   "date": " Jan 2013",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Data Breaches",
+   "1st source link": "https://www.databreaches.net/stolen-florida-dept-of-juvenile-justice-device-contained-records-of-more-than-100000-youth-and-employees/"
+ },
+ {
+   "organisation": "Advocate Medical Group",
+   "records lost": "4,000,000",
+   "year": 2013,
+   "date": " Aug 2013",
+   "sector": "health ",
+   "data sensitivity": 2,
+   "source name": "Health IT Security",
+   "1st source link": "http://healthitsecurity.com/2013/08/27/advocate-medical-group-endures-massive-data-breach/"
+ },
+ {
+   "organisation": "OVH",
+   "records lost": "200,000",
+   "year": 2013,
+   "date": " Jul 2013",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "OVH",
+   "1st source link": "http://status.ovh.net/?do=details&id=5070"
+ },
+ {
+   "organisation": "Apple",
+   "records lost": "275,000",
+   "year": 2013,
+   "date": " Jul 2013",
+   "sector": "tech, web",
+   "data sensitivity": 1,
+   "source name": "The Guardian",
+   "1st source link": "http://www.guardian.co.uk/technology/2013/jul/22/apple-developer-site-hacked"
+ },
+ {
+   "organisation": "NASDAQ",
+   "records lost": "500,000",
+   "year": 2013,
+   "date": " Jul 2013",
+   "sector": "finance",
+   "data sensitivity": 1,
+   "source name": "Reuters",
+   "1st source link": "https://uk.reuters.com/article/net-us-nasdaq-cybercrime-website/nasdaq-forum-website-hacked-passwords-compromised-idUSBRE96H1F520130718"
+ },
+ {
+   "organisation": "UbiSoft",
+   "records lost": "58,000,000",
+   "year": 2013,
+   "date": " Jul 2013",
+   "sector": "gaming",
+   "data sensitivity": 2,
+   "source name": "BBC News",
+   "1st source link": "https://www.bbc.co.uk/news/technology-23159997"
+ },
+ {
+   "organisation": "Ubuntu",
+   "records lost": "2,000,000",
+   "year": 2013,
+   "date": " Jul 2013",
+   "sector": "tech, web",
+   "data sensitivity": 3,
+   "source name": "Ars Technica",
+   "1st source link": "http://arstechnica.com/security/2013/07/hack-exposes-e-mail-addresses-password-data-for-2-million-ubuntu-forum-users/"
+ },
+ {
+   "organisation": "Nintendo",
+   "records lost": "4,000,000",
+   "year": 2013,
+   "date": " Jun 2013",
+   "sector": "gaming",
+   "data sensitivity": 2,
+   "source name": "ZDNet",
+   "1st source link": "https://www.zdnet.com/article/club-nintendo-site-hacked-customer-data-exposed/"
+ },
+ {
+   "organisation": "National Security Agency",
+   "records lost": "1,500,000",
+   "year": 2013,
+   "date": " Jun 2013",
+   "sector": "government",
+   "data sensitivity": 5,
+   "source name": "Business Insider",
+   "1st source link": "http://uk.businessinsider.com/snowden-leaks-timeline-2016-9"
+ },
+ {
+   "organisation": "Facebook",
+   "records lost": "6,000,000",
+   "year": 2013,
+   "date": " Jun 2013",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Facebook",
+   "1st source link": "https://www.facebook.com/notes/facebook-security/important-message-from-facebooks-white-hat-program/10151437074840766"
+ },
+ {
+   "organisation": "Evernote",
+   "records lost": "50,000,000",
+   "year": 2013,
+   "date": " Mar 2013",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Wired, Digital Trends",
+   "1st source link": "http://www.wired.co.uk/news/archive/2013-03/04/evernote-hacked"
+ },
+ {
+   "organisation": "Kirkwood Community College",
+   "records lost": "125,000",
+   "year": 2013,
+   "date": " Apr 2013",
+   "sector": "academic",
+   "data sensitivity": 2,
+   "source name": "eSecurity Planet",
+   "1st source link": "https://www.esecurityplanet.com/hackers/kirkwood-community-college-hacked.html"
+ },
+ {
+   "organisation": "Yahoo Japan",
+   "records lost": "22,000,000",
+   "year": 2013,
+   "date": " May 2013",
+   "sector": "tech, web",
+   "data sensitivity": 1,
+   "source name": "Reuters",
+   "1st source link": "https://www.reuters.com/article/us-yahoojapan/yahoo-japan-suspects-22-million-user-ids-leaked-kyodo-idUSBRE94G0P620130517"
+ },
+ {
+   "organisation": "Drupal",
+   "records lost": "1,000,000",
+   "year": 2013,
+   "date": " May 2013",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Ars Technica",
+   "1st source link": "http://arstechnica.com/security/2013/05/drupal-org-resets-login-credentials-after-hack-exposes-password-data/"
+ },
+ {
+   "organisation": "TerraCom & YourTel",
+   "records lost": "170,000",
+   "year": 2013,
+   "date": " May 2013",
+   "sector": "telecoms",
+   "data sensitivity": 2,
+   "source name": "Boing Boing, Wired",
+   "1st source link": "http://boingboing.net/2013/05/23/terracom-and-yourtel-threaten.html"
+ },
+ {
+   "organisation": "Washington State court system",
+   "records lost": "160,000",
+   "year": 2013,
+   "date": " May 2013",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Reuters, Privacy Rights",
+   "1st source link": "https://www.reuters.com/article/us-usa-hack-washingtonstate-idUSBRE9480YY20130509"
+ },
+ {
+   "organisation": "MacRumours.com",
+   "records lost": "860,000",
+   "year": 2013,
+   "date": " Nov 2013",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Wired",
+   "1st source link": "http://www.wired.co.uk/news/archive/2013-11/13/mac-rumours-forums-hacked"
+ },
+ {
+   "organisation": "Court Ventures",
+   "records lost": "200,000,000",
+   "year": 2013,
+   "date": " Oct 2013",
+   "sector": "finance",
+   "data sensitivity": 2,
+   "source name": "NY Times, Gov Tech",
+   "1st source link": "https://krebsonsecurity.com/2014/03/experian-lapse-allowed-id-theft-service-to-access-200-million-consumer-records/"
+ },
+ {
+   "organisation": "Vodafone",
+   "records lost": "2,000,000",
+   "year": 2013,
+   "date": " Sep 2013",
+   "sector": "telecoms",
+   "data sensitivity": 3,
+   "source name": "Security Week",
+   "1st source link": "http://www.securityweek.com/attacker-steals-data-2-million-vodafone-germany-customers"
+ },
+ {
+   "organisation": "Adobe",
+   "records lost": "38,000,000",
+   "year": 2013,
+   "date": " Oct 2013",
+   "sector": "tech",
+   "data sensitivity": 5,
+   "source name": "Adobe",
+   "1st source link": "https://www.bbc.co.uk/news/technology-24740873"
+ },
+ {
+   "organisation": "D&B, Altegrity",
+   "records lost": "1,000,000",
+   "year": 2013,
+   "date": " Sep 2013",
+   "sector": "tech",
+   "data sensitivity": 3,
+   "source name": "USA Today; Reuters",
+   "1st source link": "http://www.usatoday.com/story/cybertruth/2013/09/26/lexisnexis-dunn--bradstreet-altegrity-hacked/2878769/"
+ },
+ {
+   "organisation": "ssndob.ms",
+   "records lost": "4,000,000",
+   "year": 2013,
+   "date": " Sep 2013",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "Krebs on Security",
+   "1st source link": "http://krebsonsecurity.com/2013/09/data-broker-giants-hacked-by-id-theft-service/"
+ },
+ {
+   "organisation": "Target",
+   "records lost": "70,000,000",
+   "year": 2013,
+   "date": " Dec 2013",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "Huffington Post",
+   "1st source link": "http://www.huffingtonpost.com/2013/12/19/target-hacked-customer-credit-card-data-accessed_n_4471672.html?utm_hp_ref=mostpopular"
+ },
+ {
+   "organisation": "China Software Developer Network",
+   "records lost": "6,000,000",
+   "year": 2012,
+   "date": " Mar 2012",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "ZDNet",
+   "1st source link": "http://www.zdnet.com/blog/security/chinese-hacker-arrested-for-leaking-6-million-logins/11064"
+ },
+ {
+   "organisation": "Global Payments",
+   "records lost": "1,500,000",
+   "year": 2012,
+   "date": " Apr 2012",
+   "sector": "finance",
+   "data sensitivity": 3,
+   "source name": "Washington Post",
+   "1st source link": "http://www.washingtonpost.com/business/technology/faq-the-global-payments-hack/2012/04/02/gIQAIHLLrS_story.html"
+ },
+ {
+   "organisation": "South Carolina Government",
+   "records lost": "228,000",
+   "year": 2012,
+   "date": " Apr 2012",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "The State",
+   "1st source link": "https://www.infosecurity-magazine.com/news/data-breach-hits-228000-south-carolina-medicaid/"
+ },
+ {
+   "organisation": "Three Iranian banks",
+   "records lost": "3,000,000",
+   "year": 2012,
+   "date": " Apr 2012",
+   "sector": "finance",
+   "data sensitivity": 5,
+   "source name": "ZD Net",
+   "1st source link": "http://www.zdnet.com/blog/security/3-million-bank-accounts-hacked-in-iran/11577"
+ },
+ {
+   "organisation": "California Department of Child Support Services",
+   "records lost": "800,000",
+   "year": 2012,
+   "date": " Apr 2012",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Business Insider",
+   "1st source link": "https://www.businessinsider.com/california-child-support-data-breach-2012-4?IR=T"
+ },
+ {
+   "organisation": "Emory Healthcare",
+   "records lost": "315,000",
+   "year": 2012,
+   "date": " Apr 2012",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Emory",
+   "1st source link": "http://news.emory.edu/stories/2012/04/ehc_missing_data/campus.html"
+ },
+ {
+   "organisation": "Office of the Texas Attorney General",
+   "records lost": "6,500,000",
+   "year": 2012,
+   "date": " Apr 2012",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Raw Story",
+   "1st source link": "http://www.rawstory.com/rs/2012/04/26/texas-attorney-general-exposes-millions-of-voters-social-security-numbers/"
+ },
+ {
+   "organisation": "Medicaid",
+   "records lost": "780,000",
+   "year": 2012,
+   "date": " Apr 2012",
+   "sector": "government, health",
+   "data sensitivity": 5,
+   "source name": "Reuters",
+   "1st source link": "https://www.reuters.com/article/us-usa-hackers-utah/european-hackers-suspected-in-utah-medicaid-files-breach-idUSBRE83404G20120405"
+ },
+ {
+   "organisation": "Blizzard",
+   "records lost": "14,000,000",
+   "year": 2012,
+   "date": " Aug 2012",
+   "sector": "gaming",
+   "data sensitivity": 2,
+   "source name": "Forbes",
+   "1st source link": "https://www.forbes.com/sites/erikkain/2012/08/09/its-official-blizzard-hacked-account-information-stolen/#6dfbcdc355d1"
+ },
+ {
+   "organisation": "New York State Electric & Gas",
+   "records lost": "1,800,000",
+   "year": 2012,
+   "date": " Jan 2012",
+   "sector": "misc",
+   "data sensitivity": 2,
+   "source name": "Data Breaches",
+   "1st source link": "https://www.databreaches.net/nyseg-and-rge-notify-customers-of-unauthorized-access-to-customer-data/"
+ },
+ {
+   "organisation": "Memorial Healthcare System",
+   "records lost": "102,153",
+   "year": 2012,
+   "date": " Apr 2012",
+   "sector": "health ",
+   "data sensitivity": 2,
+   "source name": "Modern Healthcare",
+   "1st source link": "https://www.databreaches.net/more-breaches-you-may-not-have-known-about/"
+ },
+ {
+   "organisation": "Zappos",
+   "records lost": "24,000,000",
+   "year": 2012,
+   "date": " Jan 2012",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "Forbes",
+   "1st source link": "http://www.forbes.com/sites/andygreenberg/2012/01/15/zappos-says-hackers-accessed-24-million-customers-account-details/"
+ },
+ {
+   "organisation": "Formspring",
+   "records lost": "420,000",
+   "year": 2012,
+   "date": " Jul 2012",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "CNet",
+   "1st source link": "http://news.cnet.com/8301-1009_3-57469944-83/formspring-disables-user-passwords-in-security-breach/?tag=mncol;txt"
+ },
+ {
+   "organisation": "KT Corp.",
+   "records lost": "8,700,000",
+   "year": 2012,
+   "date": " Jul 2012",
+   "sector": "telecoms",
+   "data sensitivity": 2,
+   "source name": "Korea Times, CNet",
+   "1st source link": "http://www.koreatimes.co.kr/www/news/biz/2012/07/113_116143.html"
+ },
+ {
+   "organisation": "Yahoo Voices",
+   "records lost": "450,000",
+   "year": 2012,
+   "date": " Jul 2012",
+   "sector": "tech, web",
+   "data sensitivity": 1,
+   "source name": "Slashdot",
+   "1st source link": "https://www.helpnetsecurity.com/2012/07/12/nearly-half-a-million-yahoo-passwords-leaked-following-hack/"
+ },
+ {
+   "organisation": "Last.fm",
+   "records lost": "43,500,000",
+   "year": 2012,
+   "date": " Sep 2016",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "ZD Net",
+   "1st source link": "http://www.zdnet.com/article/hackers-stole-43-million-last-fm-account-details-in-2012-breach/"
+ },
+ {
+   "organisation": "LinkedIn, eHarmony, Last.fm",
+   "records lost": "8,000,000",
+   "year": 2012,
+   "date": " Jun 2012",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Cnet",
+   "1st source link": "http://news.cnet.com/8301-1009_3-57449325-83/what-the-password-leaks-mean-to-you-faq/?tag=mncol;txt"
+ },
+ {
+   "organisation": "Gamigo",
+   "records lost": "8,000,000",
+   "year": 2012,
+   "date": " Jul 2012",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Forbes",
+   "1st source link": "http://www.forbes.com/sites/andygreenberg/2012/07/23/eight-million-passwords-spilled-from-gaming-site-gamigo-months-after-breach/"
+ },
+ {
+   "organisation": "Militarysingles.com",
+   "records lost": "163,792",
+   "year": 2012,
+   "date": " Mar 2012",
+   "sector": "web, military",
+   "data sensitivity": 1,
+   "source name": "PC World",
+   "1st source link": "http://www.pcworld.com/article/252647/reborn_lulzsec_claims_hack_of_dating_site_for_military_personnel.html"
+ },
+ {
+   "organisation": "\"Apple\"",
+   "records lost": "12,367,232",
+   "year": 2012,
+   "date": " Mar 2012",
+   "sector": "tech, retail",
+   "data sensitivity": 2,
+   "source name": "CNET",
+   "1st source link": "http://news.cnet.com/8301-1009_3-57505330-83/antisec-claims-to-have-snatched-12m-apple-device-ids-from-fbi/"
+ },
+ {
+   "organisation": "Greek government",
+   "records lost": "9,000,000",
+   "year": 2012,
+   "date": " Nov 2012",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Wired",
+   "1st source link": "http://www.wired.co.uk/news/archive/2012-11/22/greece-id-theft"
+ },
+ {
+   "organisation": "South Carolina State Dept. of Revenue",
+   "records lost": "3,600,000",
+   "year": 2012,
+   "date": " Oct 2012",
+   "sector": "government",
+   "data sensitivity": 1,
+   "source name": "Information Week",
+   "1st source link": "http://www.infoworld.com/article/2615754/cyber-crime/south-carolina-reveals-massive-data-breach-of-social-security-numbers--credit-cards.html"
+ },
+ {
+   "organisation": "Dropbox",
+   "records lost": "68,700,000",
+   "year": 2012,
+   "date": " Aug 2016",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "The Telegraph",
+   "1st source link": "https://www.bbc.co.uk/news/technology-37232635"
+ },
+ {
+   "organisation": "New York City Health & Hospitals Corp.",
+   "records lost": "1,700,000",
+   "year": 2011,
+   "date": " Feb 2011",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "InfoRisk",
+   "1st source link": "https://www.inforisktoday.com/new-york-breach-affects-17-million-a-3349"
+ },
+ {
+   "organisation": "Seacoast Radiology, PA",
+   "records lost": "231,400",
+   "year": 2011,
+   "date": " Jan 2011",
+   "sector": "health ",
+   "data sensitivity": 2,
+   "source name": "Fosters",
+   "1st source link": "http://www.fosters.com/apps/pbcs.dll/article?AID=/20110120/GJNEWS_01/701209744"
+ },
+ {
+   "organisation": "South Shore Hospital, Massachusetts",
+   "records lost": "800,000",
+   "year": 2011,
+   "date": " Sep 2011",
+   "sector": "health ",
+   "data sensitivity": 5,
+   "source name": "Boston Globe",
+   "1st source link": "https://www.infosecurity-magazine.com/news/south-shore-hospital-data-breach-may-affect-up-to/"
+ },
+ {
+   "organisation": "Betfair",
+   "records lost": "2,300,000",
+   "year": 2011,
+   "date": " May 2011",
+   "sector": "web",
+   "data sensitivity": 3,
+   "source name": "FT",
+   "1st source link": "https://www-ft-com.libezproxy.open.ac.uk/content/819f5b1c-eb80-11e0-a576-00144feab49a"
+ },
+ {
+   "organisation": "Ankle & foot Center of Tampa Bay, Inc.",
+   "records lost": "156,000",
+   "year": 2011,
+   "date": " Jan 2011",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Phi Privacy",
+   "1st source link": "https://www.databreaches.net/ankle-foot-center-of-tampa-bay-breach-affecting-156000-included-social-security-numbers-as-well-as-phi/"
+ },
+ {
+   "organisation": "Yale University",
+   "records lost": "43,000",
+   "year": 2011,
+   "date": " Aug 2011",
+   "sector": "academic",
+   "data sensitivity": 2,
+   "source name": "NBC News",
+   "1st source link": "http://www.nbcnews.com/id/44235153/ns/technology_and_science-security/t/data-breach-hits-yale-university/"
+ },
+ {
+   "organisation": "Morgan Stanley Smith Barney",
+   "records lost": "34,000",
+   "year": 2011,
+   "date": " Jul 2011",
+   "sector": "finance",
+   "data sensitivity": 3,
+   "source name": "ABC News",
+   "1st source link": "https://abcnews.go.com/Business/morgan-stanley-smith-barney-breach-losing-client-data/story?id=14008632"
+ },
+ {
+   "organisation": "State of Texas",
+   "records lost": "3,500,000",
+   "year": 2011,
+   "date": " Apr 2011",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Dallas News",
+   "1st source link": "https://uk.pcmag.com/news/105457/texas-security-breach-exposes-35m-records"
+ },
+ {
+   "organisation": "Epsilon",
+   "records lost": "3,000,000",
+   "year": 2011,
+   "date": " Apr 2011",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Guardian",
+   "1st source link": "https://www.theguardian.com/technology/2011/apr/04/epsilon-email-hack"
+ },
+ {
+   "organisation": "Sony PSN",
+   "records lost": "77,000,000",
+   "year": 2011,
+   "date": " Apr 2011",
+   "sector": "gaming",
+   "data sensitivity": 1,
+   "source name": "Mashable",
+   "1st source link": "https://blog.playstation.com/archive/2011/04/28/playstation-network-and-qriocity-outage-faq/"
+ },
+ {
+   "organisation": "US Law Enforcement",
+   "records lost": "123,461",
+   "year": 2011,
+   "date": " Aug 2011",
+   "sector": "government",
+   "data sensitivity": 3,
+   "source name": "PC World",
+   "1st source link": "http://www.pcmag.com/article2/0,2817,2390683,00.asp"
+ },
+ {
+   "organisation": "University of Wisconsin - Milwaukee",
+   "records lost": "73,000",
+   "year": 2011,
+   "date": " Aug 2011",
+   "sector": "academic",
+   "data sensitivity": 2,
+   "source name": "ZDNet",
+   "1st source link": "https://www.zdnet.com/article/university-of-wisconsin-hacked-75000-social-security-numbers-student-names-exposed/"
+ },
+ {
+   "organisation": "Stratfor",
+   "records lost": "935,000",
+   "year": 2011,
+   "date": " Dec 2011",
+   "sector": "military",
+   "data sensitivity": 3,
+   "source name": "NYTimes",
+   "1st source link": "https://www.nytimes.com/2011/12/26/technology/hackers-breach-the-web-site-of-stratfor-global-intelligence.html?ref=technology&mtrref=bits.blogs.nytimes.com&gwh=A41315BCE5C521B2A0D451BEFF0886E9&gwt=pay"
+ },
+ {
+   "organisation": "Chinese gaming sites",
+   "records lost": "10,000,000",
+   "year": 2011,
+   "date": " Dec 2011",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "eHacking News",
+   "1st source link": "http://www.ehackingnews.com/2011/12/hackers-compromised-38-million-chinese.html"
+ },
+ {
+   "organisation": "Southern California Medical-Legal Consultants",
+   "records lost": "300,000",
+   "year": 2011,
+   "date": " Jun 2011",
+   "sector": "health ",
+   "data sensitivity": 2,
+   "source name": "Data Breaches",
+   "1st source link": "https://www.databreaches.net/southern-california-medical-legal-consultants-reveals-that-300000-workers-compensation-applicants-names-and-social-security-numbers-were-exposed-on-internet/"
+ },
+ {
+   "organisation": "Writerspace.com",
+   "records lost": "62,000",
+   "year": 2011,
+   "date": " Jun 2011",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "PC Mag",
+   "1st source link": "http://www.pcmag.com/article2/0,2817,2387186,00.asp"
+ },
+ {
+   "organisation": "Bethesda Game Studios",
+   "records lost": "200,000",
+   "year": 2011,
+   "date": " Jun 2011",
+   "sector": "gaming",
+   "data sensitivity": 1,
+   "source name": "PC World",
+   "1st source link": "https://venturebeat.com/2011/06/13/lulzsec-bethesda-hack/"
+ },
+ {
+   "organisation": "Sega",
+   "records lost": "1,290,755",
+   "year": 2011,
+   "date": " Jun 2011",
+   "sector": "gaming",
+   "data sensitivity": 2,
+   "source name": "ZDNet",
+   "1st source link": "http://www.zdnet.com/blog/gamification/sega-1-3-million-customer-records-hacked-lulzsec-promises-retribution/481"
+ },
+ {
+   "organisation": "Citigroup",
+   "records lost": "210,000",
+   "year": 2011,
+   "date": " Jun 2011",
+   "sector": "finance",
+   "data sensitivity": 3,
+   "source name": "PC World",
+   "1st source link": "http://www.pcworld.com/article/229891/Citigroup_Hack_Nets_Over_200k_in_Stolen_Customer_Details.html"
+ },
+ {
+   "organisation": "Sony Pictures",
+   "records lost": "1,000,000",
+   "year": 2011,
+   "date": " Jun 2011",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Mashable",
+   "1st source link": "http://mashable.com/2011/06/02/sony-pictures-hacked/"
+ },
+ {
+   "organisation": "Accendo Insurance Co. ",
+   "records lost": "175,350",
+   "year": 2011,
+   "date": " Jun 2011",
+   "sector": "health ",
+   "data sensitivity": 2,
+   "source name": "Data Breaches",
+   "1st source link": "http://www.databreaches.net/?p=19198"
+ },
+ {
+   "organisation": "Washington Post",
+   "records lost": "1,270,000",
+   "year": 2011,
+   "date": " Jul 2011",
+   "sector": "misc",
+   "data sensitivity": 2,
+   "source name": "PC Mag",
+   "1st source link": "http://www.pcmag.com/article2/0,2817,2388200,00.asp"
+ },
+ {
+   "organisation": "Health Net - IBM",
+   "records lost": "1,900,000",
+   "year": 2011,
+   "date": " Mar 2011",
+   "sector": "health ",
+   "data sensitivity": 3,
+   "source name": "IEEE Spectrum",
+   "1st source link": "https://spectrum.ieee.org/riskfactor/computing/it/health-net-data-breaches-affects-19-million-people"
+ },
+ {
+   "organisation": "Eisenhower Medical Center",
+   "records lost": "514,330",
+   "year": 2011,
+   "date": " Apr 2011",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Data Breach Info",
+   "1st source link": "http://databreachinvestigation.blogspot.com/2011/04/thief-gets-away-with-eisenhower-medical.html"
+ },
+ {
+   "organisation": "Spartanburg Regional Healthcare System",
+   "records lost": "400,000",
+   "year": 2011,
+   "date": " May 2011",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "GoUpstate",
+   "1st source link": "https://www.inforisktoday.com/400000-affected-by-stolen-pc-a-3853"
+ },
+ {
+   "organisation": "NHS",
+   "records lost": "8,600,000",
+   "year": 2011,
+   "date": " Jun 2011",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Alphr",
+   "1st source link": "https://www.alphr.com/news/security/368062/nhs-loses-laptop-holding-8m-patient-records"
+ },
+ {
+   "organisation": "San Francisco Public Utilities Commission ",
+   "records lost": "180,000",
+   "year": 2011,
+   "date": " Jun 2011",
+   "sector": "government",
+   "data sensitivity": 1,
+   "source name": "CNET",
+   "1st source link": "http://news.cnet.com/8301-27080_3-20068386-245/sf-utilities-agency-warns-of-potential-breach/"
+ },
+ {
+   "organisation": "Sony Online Entertainment",
+   "records lost": "24,600,000",
+   "year": 2011,
+   "date": " May 2011",
+   "sector": "gaming",
+   "data sensitivity": 3,
+   "source name": "Computer Weekly",
+   "1st source link": "https://privacyrights.org/data-breaches/sony-playstation-network-psn-sony-online-entertainment-soe"
+ },
+ {
+   "organisation": "Honda Canada",
+   "records lost": "283,000",
+   "year": 2011,
+   "date": " May 2011",
+   "sector": "retail",
+   "data sensitivity": 2,
+   "source name": "Guelph Mercury",
+   "1st source link": "http://www.guelphmercury.com/news-story/2200845-honda-canada-hit-by-online-security-breach-283-000-car-owners-personal-data-stolen/"
+ },
+ {
+   "organisation": "Massachusetts Government",
+   "records lost": "210,000",
+   "year": 2011,
+   "date": " May 2011",
+   "sector": "government",
+   "data sensitivity": 5,
+   "source name": "NBC News",
+   "1st source link": "http://www.nbcnews.com/id/43086769/ns/technology_and_science-security/t/huge-data-breach-puts-risk/#.XAfhPhP7TUI"
+ },
+ {
+   "organisation": "Oregon Department of Motor Vehicles",
+   "records lost": "1,000,000",
+   "year": 2011,
+   "date": " May 2011",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Data Breaches",
+   "1st source link": "https://www.databreaches.net/or-deputies-man-used-dmv-database-in-id-theft/"
+ },
+ {
+   "organisation": "Steam",
+   "records lost": "35,000,000",
+   "year": 2011,
+   "date": " Nov 2011",
+   "sector": "web",
+   "data sensitivity": 3,
+   "source name": "SC Mag",
+   "1st source link": "http://www.bbc.co.uk/news/technology-15690187"
+ },
+ {
+   "organisation": "Restaurant Depot",
+   "records lost": "200,000",
+   "year": 2011,
+   "date": " Nov 2011",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "NBC News",
+   "1st source link": "https://www.finextra.com/newsarticle/23243/restaurant-depot-hacked-by-russian-cyber-criminals"
+ },
+ {
+   "organisation": "Nexon Korea Corp",
+   "records lost": "13,200,000",
+   "year": 2011,
+   "date": " Nov 2011",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "Reuters",
+   "1st source link": "https://uk.reuters.com/article/us-korea-hacking-nexon/data-of-13-million-south-korean-online-game-subscribers-hacked-idUSTRE7AP09H20111126"
+ },
+ {
+   "organisation": "Nemours Foundation",
+   "records lost": "1,600,000",
+   "year": 2011,
+   "date": " Oct 2011",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Law360",
+   "1st source link": "https://www.law360.com/articles/277961/nemours-says-data-breach-affected-1-6m-patients"
+ },
+ {
+   "organisation": "Sutter Medical Foundation",
+   "records lost": "4,243,434",
+   "year": 2011,
+   "date": " Nov 2011",
+   "sector": "health ",
+   "data sensitivity": 2,
+   "source name": "Trend Micro",
+   "1st source link": "https://blog.trendmicro.com/sutter-health-sued-for-1-billion-following-data-breach/"
+ },
+ {
+   "organisation": "Tricare",
+   "records lost": "4,901,432",
+   "year": 2011,
+   "date": " Sep 2011",
+   "sector": "military, health",
+   "data sensitivity": 4,
+   "source name": "Reuters",
+   "1st source link": "http://www.reuters.com/article/us-data-breach-texas-idUSTRE78S5JG20110929"
+ },
+ {
+   "organisation": "AvMed, Inc.",
+   "records lost": "1,220,000",
+   "year": 2010,
+   "date": " Feb 2010",
+   "sector": "health ",
+   "data sensitivity": 2,
+   "source name": "Hack Notice",
+   "1st source link": "https://www.databreachtoday.com/avmed-sued-over-laptop-breach-a-3111"
+ },
+ {
+   "organisation": "Blue Cross Blue Shield of Tennessee",
+   "records lost": "1,023,209",
+   "year": 2010,
+   "date": " May 2010",
+   "sector": "health ",
+   "data sensitivity": 2,
+   "source name": "Data Breaches",
+   "1st source link": "https://www.databreaches.net/bcbs-of-tenn-breach-lessons-learned/"
+ },
+ {
+   "organisation": "US Military",
+   "records lost": "260,000",
+   "year": 2010,
+   "date": " Nov 2010",
+   "sector": "military",
+   "data sensitivity": 5,
+   "source name": "Guardian",
+   "1st source link": "http://www.guardian.co.uk/news/datablog/2010/nov/29/wikileaks-cables-data"
+ },
+ {
+   "organisation": "Gawker.com",
+   "records lost": "1,500,000",
+   "year": 2010,
+   "date": " Dec 2010",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "Guardian",
+   "1st source link": "http://www.guardian.co.uk/technology/2010/dec/13/gawker-hackers-passwords-twitter-wikileaks?INTCMP=SRCH"
+ },
+ {
+   "organisation": "Triple-S Salud, Inc.",
+   "records lost": "398,000",
+   "year": 2010,
+   "date": " Nov 2010",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Data Breaches",
+   "1st source link": "https://www.databreaches.net/puerto-rico-dept-of-health-reports-breach-affecting-400000-triple-s-salud-fined-100k/"
+ },
+ {
+   "organisation": "Ohio State University",
+   "records lost": "760,000",
+   "year": 2010,
+   "date": " Dec 2010",
+   "sector": "academic",
+   "data sensitivity": 2,
+   "source name": "The Lantern",
+   "1st source link": "https://www.thelantern.com/2010/12/hacked-data-breach-costly-for-ohio-state-victims-of-compromised-info/"
+ },
+ {
+   "organisation": "Emergency Healthcare Physicians, Ltd.",
+   "records lost": "180,111",
+   "year": 2010,
+   "date": " May 2010",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Healthcare Info Security",
+   "1st source link": "http://www.healthcareinfosecurity.com/chicago-breach-affects-180000-a-2496"
+ },
+ {
+   "organisation": "Colorado government",
+   "records lost": "105,470",
+   "year": 2010,
+   "date": " Jul 2010",
+   "sector": "health ",
+   "data sensitivity": 2,
+   "source name": "Data Breaches",
+   "1st source link": "http://www.databreaches.net/?p=12611"
+ },
+ {
+   "organisation": "AT&T",
+   "records lost": "114,000",
+   "year": 2010,
+   "date": " Jun 2010",
+   "sector": "telecoms",
+   "data sensitivity": 1,
+   "source name": "Guardian",
+   "1st source link": "http://www.guardian.co.uk/technology/2010/jun/10/apple-ipad-security-leak?INTCMP=SRCH"
+ },
+ {
+   "organisation": "Lincoln Medical & Mental Health Center",
+   "records lost": "130,495",
+   "year": 2010,
+   "date": " Jun 2010",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Alert Boot",
+   "1st source link": "https://www.pcworld.idg.com.au/article/351659/new_york_hospital_loses_data_130_000_via_fedex/"
+ },
+ {
+   "organisation": "Educational Credit Management Corp",
+   "records lost": "3,300,000",
+   "year": 2010,
+   "date": " Mar 2010",
+   "sector": "finance",
+   "data sensitivity": 2,
+   "source name": "Wall Street Journal",
+   "1st source link": "https://www.wsj.com/articles/SB10001424052702304434404575150024174102954"
+ },
+ {
+   "organisation": "US Federal Reserve Bank of Cleveland",
+   "records lost": "400,000",
+   "year": 2010,
+   "date": " Nov 2010",
+   "sector": "finance",
+   "data sensitivity": 3,
+   "source name": "Bank Info Security",
+   "1st source link": "https://www.bankinfosecurity.com/cleveland-federal-reserve-hacked-a-3115"
+ },
+ {
+   "organisation": "Classified Iraq War documents",
+   "records lost": "392,000",
+   "year": 2010,
+   "date": " Oct 2010",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Forbes",
+   "1st source link": "http://www.forbes.com/sites/andygreenberg/2010/10/22/wikileaks-reveals-the-biggest-classified-data-breach-in-history/"
+ },
+ {
+   "organisation": "Heartland",
+   "records lost": "130,000,000",
+   "year": 2009,
+   "date": " Jan 2009",
+   "sector": "finance",
+   "data sensitivity": 3,
+   "source name": "Dark Reading",
+   "1st source link": "https://www.darkreading.com/attacks-and-breaches/heartland-payment-systems-hit-by-data-security-breach/d/d-id/1075770"
+ },
+ {
+   "organisation": "US National Guard",
+   "records lost": "131,000",
+   "year": 2009,
+   "date": " Dec 2009",
+   "sector": "military",
+   "data sensitivity": 2,
+   "source name": "CNN",
+   "1st source link": "http://edition.cnn.com/2009/US/12/17/theft.security.breach/index.html"
+ },
+ {
+   "organisation": "RockYou!",
+   "records lost": "32,000,000",
+   "year": 2009,
+   "date": " Dec 2009",
+   "sector": "web, gaming",
+   "data sensitivity": 1,
+   "source name": "Tech Crunch",
+   "1st source link": "http://techcrunch.com/2009/12/14/rockyou-hack-security-myspace-facebook-passwords/"
+ },
+ {
+   "organisation": "CheckFree Corporation",
+   "records lost": "5,000,000",
+   "year": 2009,
+   "date": " Jan 2009",
+   "sector": "finance",
+   "data sensitivity": 1,
+   "source name": "Computer World",
+   "1st source link": "https://www.computerworld.com/article/2530152/checkfree-warns-5-million-customers-after-hack.html"
+ },
+ {
+   "organisation": "Network Solutions",
+   "records lost": "573,000",
+   "year": 2009,
+   "date": " Jul 2009",
+   "sector": "web",
+   "data sensitivity": 3,
+   "source name": "Washington Post",
+   "1st source link": "http://voices.washingtonpost.com/securityfix/2009/07/network_solutions_hack_comprom.html"
+ },
+ {
+   "organisation": "Virginia Prescription Monitoring Program",
+   "records lost": "531,400",
+   "year": 2009,
+   "date": " May 2009",
+   "sector": "health ",
+   "data sensitivity": 2,
+   "source name": "Digital Health",
+   "1st source link": "https://www.digitalhealth.net/2009/05/virginia-department-of-health-hacked/"
+ },
+ {
+   "organisation": "University of California Berkeley",
+   "records lost": "160,000",
+   "year": 2009,
+   "date": " May 2009",
+   "sector": "academic",
+   "data sensitivity": 3,
+   "source name": "Cnet",
+   "1st source link": "https://www.cnet.com/news/uc-berkeley-computers-hacked-160000-at-risk/"
+ },
+ {
+   "organisation": "Health Net ",
+   "records lost": "1,500,000",
+   "year": 2009,
+   "date": " Nov 2009",
+   "sector": "health ",
+   "data sensitivity": 4,
+   "source name": "Computer World",
+   "1st source link": "https://www.computerworld.com/article/2521838/security0/health-net-says-1-5m-medical-records-lost-in-data-breach.html"
+ },
+ {
+   "organisation": "US Military",
+   "records lost": "76,000,000",
+   "year": 2009,
+   "date": " Oct 2009",
+   "sector": "military",
+   "data sensitivity": 2,
+   "source name": "Wired",
+   "1st source link": "http://www.wired.com/threatlevel/2009/10/probe-targets-archives-handling-of-data-on-70-million-vets/"
+ },
+ {
+   "organisation": "Compass Bank",
+   "records lost": "1,000,000",
+   "year": 2008,
+   "date": " Mar 2008",
+   "sector": "finance",
+   "data sensitivity": 3,
+   "source name": "Computer Weekly",
+   "1st source link": "https://www.computerworld.com/article/2536195/programmer-who-stole-drive-containing-1-million-bank-records-gets-42-months.html"
+ },
+ {
+   "organisation": "Hannaford Brothers Supermarket Chain",
+   "records lost": "4,200,000",
+   "year": 2008,
+   "date": " Mar 2008",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "NetworkWorld",
+   "1st source link": "https://www.networkworld.com/article/2284998/lan-wan/details-emerging-on-hannaford-data-breach.html"
+ },
+ {
+   "organisation": "University of Miami",
+   "records lost": "2,100,000",
+   "year": 2008,
+   "date": " Apr 2008",
+   "sector": "academic",
+   "data sensitivity": 3,
+   "source name": "Identity Theft",
+   "1st source link": "https://www.computerworld.com/article/2536837/thieves-pilfer-backup-tapes-holding-2m-medical-records.html"
+ },
+ {
+   "organisation": "BNY Mellon Shareowner Services",
+   "records lost": "4,500,000",
+   "year": 2008,
+   "date": " May 2008",
+   "sector": "finance",
+   "data sensitivity": 1,
+   "source name": "Reuters",
+   "1st source link": "https://www.reuters.com/article/us-mellon-breach-idUSN2143343820080521"
+ },
+ {
+   "organisation": "Countrywide Financial Corp",
+   "records lost": "2,500,000",
+   "year": 2008,
+   "date": " Aug 2008",
+   "sector": "finance",
+   "data sensitivity": 2,
+   "source name": "LATimes",
+   "1st source link": "https://www.networkworld.com/article/2274502/security-oversight-may-have-enabled-countrywide-breach.html"
+ },
+ {
+   "organisation": "UK Home Office",
+   "records lost": "84,000",
+   "year": 2008,
+   "date": " Aug 2008",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Wikipedia",
+   "1st source link": "http://news.bbc.co.uk/1/hi/uk_politics/7608155.stm"
+ },
+ {
+   "organisation": "RBS Worldpay",
+   "records lost": "1,500,000",
+   "year": 2008,
+   "date": " Dec 2008",
+   "sector": "finance",
+   "data sensitivity": 5,
+   "source name": "The Register",
+   "1st source link": "http://www.theregister.co.uk/2008/12/29/rbs_worldpay_breach/"
+ },
+ {
+   "organisation": "Auction.co.kr",
+   "records lost": "18,000,000",
+   "year": 2008,
+   "date": " Feb 2008",
+   "sector": "web",
+   "data sensitivity": 3,
+   "source name": "Dark Reading",
+   "1st source link": "https://www.darkreading.com/attacks-breaches/hacker-steals-data-on-18m-auction-customers-in-south-korea/d/d-id/1129325"
+ },
+ {
+   "organisation": "GS Caltex",
+   "records lost": "11,100,000",
+   "year": 2008,
+   "date": " Sep 2008",
+   "sector": "misc",
+   "data sensitivity": 2,
+   "source name": "The Dong-a Ilbo",
+   "1st source link": "http://english.donga.com/srv/service.php3?biid=2008090631088"
+ },
+ {
+   "organisation": "AT&T",
+   "records lost": "113,000",
+   "year": 2008,
+   "date": " Jun 2008",
+   "sector": "telecoms",
+   "data sensitivity": 1,
+   "source name": "NetworkWorld",
+   "1st source link": "https://www.networkworld.com/article/2344552/security/latest--lost--laptop-holds-treasure-trove-of-unencrypted-at-t-payroll-data.html"
+ },
+ {
+   "organisation": "Stanford University",
+   "records lost": "72,000",
+   "year": 2008,
+   "date": " Jun 2008",
+   "sector": "academic",
+   "data sensitivity": 2,
+   "source name": "SFGate",
+   "1st source link": "http://www.sfgate.com/bayarea/article/Stanford-employees-data-on-stolen-laptop-3281185.php"
+ },
+ {
+   "organisation": "University of Utah Hospitals & Clinics",
+   "records lost": "2,200,000",
+   "year": 2008,
+   "date": " Jun 2008",
+   "sector": "academic",
+   "data sensitivity": 4,
+   "source name": "Salt Lake Tribune",
+   "1st source link": "http://archive.sltrib.com/story.php?ref=/ci_9540210"
+ },
+ {
+   "organisation": "Chile Ministry Of Education",
+   "records lost": "6,000,000",
+   "year": 2008,
+   "date": " May 2008",
+   "sector": "government",
+   "data sensitivity": 1,
+   "source name": "BBC News",
+   "1st source link": "http://news.bbc.co.uk/2/hi/americas/7395295.stm"
+ },
+ {
+   "organisation": "Texas Lottery",
+   "records lost": "89,000",
+   "year": 2008,
+   "date": " Nov 2008",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Houston Chronicle",
+   "1st source link": "https://www.chron.com/news/houston-texas/article/89-000-lottery-winners-affected-by-security-breach-1603025.php"
+ },
+ {
+   "organisation": "Starbucks",
+   "records lost": "97,000",
+   "year": 2008,
+   "date": " Nov 2008",
+   "sector": "retail",
+   "data sensitivity": 2,
+   "source name": "Info Watch",
+   "1st source link": "https://infowatch.com/analytics/leaks_monitoring/1304"
+ },
+ {
+   "organisation": "UK Ministry of Defence",
+   "records lost": "1,700,000",
+   "year": 2008,
+   "date": " Oct 2008",
+   "sector": "government",
+   "data sensitivity": 5,
+   "source name": "BBC News",
+   "1st source link": "http://news.bbc.co.uk/1/hi/uk_politics/7667507.stm"
+ },
+ {
+   "organisation": "T-Mobile, Deutsche Telecom",
+   "records lost": "17,000,000",
+   "year": 2008,
+   "date": " Oct 2008",
+   "sector": "telecoms",
+   "data sensitivity": 1,
+   "source name": "FT",
+   "1st source link": "https://www.dw.com/en/telekom-says-data-from-17-million-customers-was-stolen/a-3690132"
+ },
+ {
+   "organisation": "Norwegian Tax Authorities",
+   "records lost": "3,950,000",
+   "year": 2008,
+   "date": " Sep 2008",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Info Watch",
+   "1st source link": "http://infowatch.com/node/1289"
+ },
+ {
+   "organisation": "Service Personnel and Veterans Agency (UK)",
+   "records lost": "50,500",
+   "year": 2008,
+   "date": " Sep 2008",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "BBC News",
+   "1st source link": "http://news.bbc.co.uk/1/hi/england/gloucestershire/7639006.stm"
+ },
+ {
+   "organisation": "Monster.com",
+   "records lost": "1,600,000",
+   "year": 2007,
+   "date": " Aug 2007",
+   "sector": "web",
+   "data sensitivity": 2,
+   "source name": "BBC News",
+   "1st source link": "http://news.bbc.co.uk/1/hi/6956349.stm"
+ },
+ {
+   "organisation": "Driving Standards Agency",
+   "records lost": "3,000,000",
+   "year": 2007,
+   "date": " Dec 2007",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "BBC News",
+   "1st source link": "http://news.bbc.co.uk/1/hi/uk_politics/7147715.stm"
+ },
+ {
+   "organisation": "Fidelity National Information Services",
+   "records lost": "8,500,000",
+   "year": 2007,
+   "date": " Jul 2007",
+   "sector": "finance",
+   "data sensitivity": 3,
+   "source name": "PCWorld",
+   "1st source link": "http://www.pcworld.com/article/135117/article.html"
+ },
+ {
+   "organisation": "City and Hackney Teaching Primary Care Trust",
+   "records lost": "160,000",
+   "year": 2007,
+   "date": " Dec 2007",
+   "sector": "government",
+   "data sensitivity": 2,
+   "source name": "Computer Weekly",
+   "1st source link": "https://www.computerweekly.com/news/2240104003/Hackney-NHS-trust-encrypts-IT-equipment-following-loss-of-child-data"
+ },
+ {
+   "organisation": "Gap Inc",
+   "records lost": "800,000",
+   "year": 2007,
+   "date": " Sep 2007",
+   "sector": "retail",
+   "data sensitivity": 2,
+   "source name": "PC World",
+   "1st source link": "http://www.pcworld.com/article/137865/article.html"
+ },
+ {
+   "organisation": "Dai Nippon Printing",
+   "records lost": "8,637,405",
+   "year": 2007,
+   "date": " Mar 2007",
+   "sector": "retail",
+   "data sensitivity": 1,
+   "source name": "Compare Business Products",
+   "1st source link": "https://www.comparebusinessproducts.com/fyi/15-most-massive-data-breaches-history"
+ },
+ {
+   "organisation": "TK / TJ Maxx",
+   "records lost": "94,000,000",
+   "year": 2007,
+   "date": " Mar 2007",
+   "sector": "retail",
+   "data sensitivity": 3,
+   "source name": "ZD Net",
+   "1st source link": "http://www.zdnet.com/wi-fi-hack-caused-tk-maxx-security-breach-3039286991/"
+ },
+ {
+   "organisation": "JP Morgan Chase",
+   "records lost": "2,600,000",
+   "year": 2007,
+   "date": " May 2007",
+   "sector": "finance",
+   "data sensitivity": 3,
+   "source name": "PC World",
+   "1st source link": "http://www.pcworld.com/article/131453/article.html"
+ },
+ {
+   "organisation": "UK Revenue & Customs",
+   "records lost": "25,000,000",
+   "year": 2007,
+   "date": " Nov 2007",
+   "sector": "government",
+   "data sensitivity": 1,
+   "source name": "BBC News",
+   "1st source link": "http://news.bbc.co.uk/2/hi/uk_news/7103911.stm"
+ },
+ {
+   "organisation": "TD Ameritrade",
+   "records lost": "6,300,000",
+   "year": 2007,
+   "date": " Sep 2007",
+   "sector": "finance",
+   "data sensitivity": 1,
+   "source name": "Wired, CBNC",
+   "1st source link": "http://www.wired.com/threatlevel/2008/07/ameritrade-hack/"
+ },
+ {
+   "organisation": "AOL",
+   "records lost": "20,000,000",
+   "year": 2006,
+   "date": " Aug 2006",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "Tech Crunch",
+   "1st source link": "http://techcrunch.com/2006/08/06/aol-proudly-releases-massive-amounts-of-user-search-data/"
+ },
+ {
+   "organisation": "US Dept of Vet Affairs",
+   "records lost": "26,500,000",
+   "year": 2006,
+   "date": " Jul 2006",
+   "sector": "government, military",
+   "data sensitivity": 2,
+   "source name": "GCN, US Gov",
+   "1st source link": "http://gcn.com/Articles/2009/02/02/VA-data-breach-suit-settlement.aspx"
+ },
+ {
+   "organisation": "Automatic Data Processing",
+   "records lost": "125,000",
+   "year": 2006,
+   "date": " Jul 2006",
+   "sector": "finance",
+   "data sensitivity": 2,
+   "source name": "ABC News",
+   "1st source link": "http://abcnews.go.com/Technology/story?id=2160425&page=1#.UFcROxgUwaA"
+ },
+ {
+   "organisation": "KDDI",
+   "records lost": "4,000,000",
+   "year": 2006,
+   "date": " Jun 2006",
+   "sector": "telecoms",
+   "data sensitivity": 1,
+   "source name": "Computer World",
+   "1st source link": "http://www.computerworld.com/s/article/9001150/KDDI_suffers_massive_data_breach"
+ },
+ {
+   "organisation": "Hewlett Packard",
+   "records lost": "200,000",
+   "year": 2006,
+   "date": " Mar 2006",
+   "sector": "tech, retail",
+   "data sensitivity": 2,
+   "source name": "Computer Weekly",
+   "1st source link": "https://www.computerweekly.com/news/2240076956/Personal-data-on-200000-HP-employees-stolen"
+ },
+ {
+   "organisation": "Ameritrade Inc.",
+   "records lost": "200,000",
+   "year": 2005,
+   "date": " Apr 2005",
+   "sector": "finance",
+   "data sensitivity": 2,
+   "source name": "NBC",
+   "1st source link": "http://www.nbcnews.com/id/7561268/"
+ },
+ {
+   "organisation": "Citigroup",
+   "records lost": "3,900,000",
+   "year": 2005,
+   "date": " Jun 2005",
+   "sector": "finance",
+   "data sensitivity": 3,
+   "source name": "NY Times",
+   "1st source link": "http://www.nytimes.com/2005/06/07/business/07data.html?pagewanted=all&_moc.semityn.www"
+ },
+ {
+   "organisation": "Cardsystems Solutions Inc. ",
+   "records lost": "40,000,000",
+   "year": 2005,
+   "date": " Jun 2005",
+   "sector": "finance",
+   "data sensitivity": 3,
+   "source name": "Wired",
+   "1st source link": "https://www.wired.com/2005/06/cardsystems-data-left-unsecured/"
+ },
+ {
+   "organisation": "AOL",
+   "records lost": "92,000,000",
+   "year": 2004,
+   "date": " Jun 2004",
+   "sector": "web",
+   "data sensitivity": 1,
+   "source name": "CNN",
+   "1st source link": "http://money.cnn.com/2004/06/23/technology/aol_spam/"
+ }
+]
