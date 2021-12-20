@@ -117,7 +117,12 @@ h2.aimTitle {
    font-family: "Courier New", "Monaco", monospace;
 
   }
+  h2.datainfo {
+    padding-top: 40px;
+    text-align: center;
 
+ 
+   }
 
 
 h3 {
@@ -136,9 +141,11 @@ div.threat {
 div.problem {
   background: rgb(209, 218, 218);
 
-  
 }
 
+div.bubbleControl {
+  padding-top: 2em;
+}
 
 .header {
     background-image: url('Photo_by_Aleksandar_Pasaric_from_Pexels.jpg');
@@ -209,5 +216,6 @@ a:link.links {
     background-color: transparent;
     text-decoration: underline;
   }
+
 
 
